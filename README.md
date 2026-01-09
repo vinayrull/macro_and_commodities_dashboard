@@ -20,7 +20,7 @@ This project uses Python to collect, process, and store macroeconomic and commod
 1. Place `macro_and_commodities_dashboard.pbix` and `macro_and_commodities_dashboard.py` in the same folder.
 2. Inside this folder, create a subfolder named `data`.
 3. Place `commodities_data.csv` and `macro_data.csv` inside the `data` folder.
-4. Open `macro_and_commodities_dashboard.pbix` and click Refresh.
+4. Open `macro_and_commodities_dashboard.pbix`.
 
 ---
 
