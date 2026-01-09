@@ -6,16 +6,13 @@ This project uses Python to collect, process, and store macroeconomic and commod
 
 ---
 
-## Files Included
+## Files Required
 
 - **macro_and_commodities_dashboard.pbix** – Power BI dashboard file  
 - **macro_and_commodities_dashboard.py** – Python script for data collection and processing  
-- **Dashboard Preview.png** – Screenshot of the dashboard  
-- **data/**
+- data/
   - **commodities_data.csv** – Commodity price data  
   - **macro_data.csv** – Macroeconomic indicators  
-- **other/**
-  - **Data Design & Transformation.pdf** – Documentation of data design and transformations  
 
 ---
 
