@@ -1,0 +1,1801 @@
+date,indicator,value,unit
+1996-01-31,Inflation,154.9,Index
+1996-01-31,GDP,,Billions of Dollars
+1996-01-31,Unemployment,5.5,Percent
+1996-01-31,Interest,5.22,Percent
+1996-01-31,S&P 500,,Adjusted Close (SPY)
+1996-02-29,Inflation,155.7,Index
+1996-02-29,GDP,,Billions of Dollars
+1996-02-29,Unemployment,5.5,Percent
+1996-02-29,Interest,5.31,Percent
+1996-02-29,S&P 500,,Adjusted Close (SPY)
+1996-03-31,Inflation,156.3,Index
+1996-03-31,GDP,,Billions of Dollars
+1996-03-31,Unemployment,5.6,Percent
+1996-03-31,Interest,5.22,Percent
+1996-03-31,S&P 500,,Adjusted Close (SPY)
+1996-04-30,Inflation,156.6,Index
+1996-04-30,GDP,,Billions of Dollars
+1996-04-30,Unemployment,5.6,Percent
+1996-04-30,Interest,5.24,Percent
+1996-04-30,S&P 500,,Adjusted Close (SPY)
+1996-05-31,Inflation,156.7,Index
+1996-05-31,GDP,,Billions of Dollars
+1996-05-31,Unemployment,5.3,Percent
+1996-05-31,Interest,5.27,Percent
+1996-05-31,S&P 500,,Adjusted Close (SPY)
+1996-06-30,Inflation,157.0,Index
+1996-06-30,GDP,,Billions of Dollars
+1996-06-30,Unemployment,5.5,Percent
+1996-06-30,Interest,5.4,Percent
+1996-06-30,S&P 500,,Adjusted Close (SPY)
+1996-07-31,Inflation,157.3,Index
+1996-07-31,GDP,,Billions of Dollars
+1996-07-31,Unemployment,5.1,Percent
+1996-07-31,Interest,5.22,Percent
+1996-07-31,S&P 500,,Adjusted Close (SPY)
+1996-08-31,Inflation,157.8,Index
+1996-08-31,GDP,,Billions of Dollars
+1996-08-31,Unemployment,5.2,Percent
+1996-08-31,Interest,5.3,Percent
+1996-08-31,S&P 500,,Adjusted Close (SPY)
+1996-09-30,Inflation,158.3,Index
+1996-09-30,GDP,,Billions of Dollars
+1996-09-30,Unemployment,5.2,Percent
+1996-09-30,Interest,5.24,Percent
+1996-09-30,S&P 500,,Adjusted Close (SPY)
+1996-10-31,Inflation,158.6,Index
+1996-10-31,GDP,,Billions of Dollars
+1996-10-31,Unemployment,5.4,Percent
+1996-10-31,Interest,5.31,Percent
+1996-10-31,S&P 500,,Adjusted Close (SPY)
+1996-11-30,Inflation,158.6,Index
+1996-11-30,GDP,,Billions of Dollars
+1996-11-30,Unemployment,5.4,Percent
+1996-11-30,Interest,5.29,Percent
+1996-11-30,S&P 500,,Adjusted Close (SPY)
+1996-12-31,Inflation,159.1,Index
+1996-12-31,GDP,12370.299,Billions of Dollars
+1996-12-31,Unemployment,5.3,Percent
+1996-12-31,Interest,5.25,Percent
+1996-12-31,S&P 500,,Adjusted Close (SPY)
+1997-01-31,Inflation,159.6,Index
+1997-01-31,GDP,,Billions of Dollars
+1997-01-31,Unemployment,5.2,Percent
+1997-01-31,Interest,5.19,Percent
+1997-01-31,S&P 500,,Adjusted Close (SPY)
+1997-02-28,Inflation,160.0,Index
+1997-02-28,GDP,,Billions of Dollars
+1997-02-28,Unemployment,5.2,Percent
+1997-02-28,Interest,5.39,Percent
+1997-02-28,S&P 500,,Adjusted Close (SPY)
+1997-03-31,Inflation,160.2,Index
+1997-03-31,GDP,,Billions of Dollars
+1997-03-31,Unemployment,5.1,Percent
+1997-03-31,Interest,5.51,Percent
+1997-03-31,S&P 500,,Adjusted Close (SPY)
+1997-04-30,Inflation,160.1,Index
+1997-04-30,GDP,,Billions of Dollars
+1997-04-30,Unemployment,4.9,Percent
+1997-04-30,Interest,5.5,Percent
+1997-04-30,S&P 500,,Adjusted Close (SPY)
+1997-05-31,Inflation,160.3,Index
+1997-05-31,GDP,,Billions of Dollars
+1997-05-31,Unemployment,5.0,Percent
+1997-05-31,Interest,5.56,Percent
+1997-05-31,S&P 500,,Adjusted Close (SPY)
+1997-06-30,Inflation,160.5,Index
+1997-06-30,GDP,,Billions of Dollars
+1997-06-30,Unemployment,4.9,Percent
+1997-06-30,Interest,5.52,Percent
+1997-06-30,S&P 500,,Adjusted Close (SPY)
+1997-07-31,Inflation,160.8,Index
+1997-07-31,GDP,,Billions of Dollars
+1997-07-31,Unemployment,4.8,Percent
+1997-07-31,Interest,5.54,Percent
+1997-07-31,S&P 500,,Adjusted Close (SPY)
+1997-08-31,Inflation,161.2,Index
+1997-08-31,GDP,,Billions of Dollars
+1997-08-31,Unemployment,4.9,Percent
+1997-08-31,Interest,5.54,Percent
+1997-08-31,S&P 500,,Adjusted Close (SPY)
+1997-09-30,Inflation,161.6,Index
+1997-09-30,GDP,,Billions of Dollars
+1997-09-30,Unemployment,4.7,Percent
+1997-09-30,Interest,5.5,Percent
+1997-09-30,S&P 500,,Adjusted Close (SPY)
+1997-10-31,Inflation,161.5,Index
+1997-10-31,GDP,,Billions of Dollars
+1997-10-31,Unemployment,4.6,Percent
+1997-10-31,Interest,5.52,Percent
+1997-10-31,S&P 500,,Adjusted Close (SPY)
+1997-11-30,Inflation,161.3,Index
+1997-11-30,GDP,,Billions of Dollars
+1997-11-30,Unemployment,4.7,Percent
+1997-11-30,Interest,5.5,Percent
+1997-11-30,S&P 500,,Adjusted Close (SPY)
+1997-12-31,Inflation,161.6,Index
+1997-12-31,GDP,12924.876,Billions of Dollars
+1997-12-31,Unemployment,4.6,Percent
+1997-12-31,Interest,5.56,Percent
+1997-12-31,S&P 500,,Adjusted Close (SPY)
+1998-01-31,Inflation,161.9,Index
+1998-01-31,GDP,,Billions of Dollars
+1998-01-31,Unemployment,4.6,Percent
+1998-01-31,Interest,5.51,Percent
+1998-01-31,S&P 500,,Adjusted Close (SPY)
+1998-02-28,Inflation,162.2,Index
+1998-02-28,GDP,,Billions of Dollars
+1998-02-28,Unemployment,4.7,Percent
+1998-02-28,Interest,5.49,Percent
+1998-02-28,S&P 500,,Adjusted Close (SPY)
+1998-03-31,Inflation,162.5,Index
+1998-03-31,GDP,,Billions of Dollars
+1998-03-31,Unemployment,4.3,Percent
+1998-03-31,Interest,5.45,Percent
+1998-03-31,S&P 500,,Adjusted Close (SPY)
+1998-04-30,Inflation,162.8,Index
+1998-04-30,GDP,,Billions of Dollars
+1998-04-30,Unemployment,4.4,Percent
+1998-04-30,Interest,5.49,Percent
+1998-04-30,S&P 500,,Adjusted Close (SPY)
+1998-05-31,Inflation,163.0,Index
+1998-05-31,GDP,,Billions of Dollars
+1998-05-31,Unemployment,4.5,Percent
+1998-05-31,Interest,5.56,Percent
+1998-05-31,S&P 500,,Adjusted Close (SPY)
+1998-06-30,Inflation,163.2,Index
+1998-06-30,GDP,,Billions of Dollars
+1998-06-30,Unemployment,4.5,Percent
+1998-06-30,Interest,5.54,Percent
+1998-06-30,S&P 500,,Adjusted Close (SPY)
+1998-07-31,Inflation,163.4,Index
+1998-07-31,GDP,,Billions of Dollars
+1998-07-31,Unemployment,4.5,Percent
+1998-07-31,Interest,5.55,Percent
+1998-07-31,S&P 500,,Adjusted Close (SPY)
+1998-08-31,Inflation,163.6,Index
+1998-08-31,GDP,,Billions of Dollars
+1998-08-31,Unemployment,4.6,Percent
+1998-08-31,Interest,5.51,Percent
+1998-08-31,S&P 500,,Adjusted Close (SPY)
+1998-09-30,Inflation,164.0,Index
+1998-09-30,GDP,,Billions of Dollars
+1998-09-30,Unemployment,4.5,Percent
+1998-09-30,Interest,5.07,Percent
+1998-09-30,S&P 500,,Adjusted Close (SPY)
+1998-10-31,Inflation,164.0,Index
+1998-10-31,GDP,,Billions of Dollars
+1998-10-31,Unemployment,4.4,Percent
+1998-10-31,Interest,4.83,Percent
+1998-10-31,S&P 500,,Adjusted Close (SPY)
+1998-11-30,Inflation,163.9,Index
+1998-11-30,GDP,,Billions of Dollars
+1998-11-30,Unemployment,4.4,Percent
+1998-11-30,Interest,4.68,Percent
+1998-11-30,S&P 500,,Adjusted Close (SPY)
+1998-12-31,Inflation,164.3,Index
+1998-12-31,GDP,13543.774,Billions of Dollars
+1998-12-31,Unemployment,4.3,Percent
+1998-12-31,Interest,4.63,Percent
+1998-12-31,S&P 500,,Adjusted Close (SPY)
+1999-01-31,Inflation,164.5,Index
+1999-01-31,GDP,,Billions of Dollars
+1999-01-31,Unemployment,4.4,Percent
+1999-01-31,Interest,4.76,Percent
+1999-01-31,S&P 500,,Adjusted Close (SPY)
+1999-02-28,Inflation,165.0,Index
+1999-02-28,GDP,,Billions of Dollars
+1999-02-28,Unemployment,4.2,Percent
+1999-02-28,Interest,4.81,Percent
+1999-02-28,S&P 500,,Adjusted Close (SPY)
+1999-03-31,Inflation,166.2,Index
+1999-03-31,GDP,,Billions of Dollars
+1999-03-31,Unemployment,4.3,Percent
+1999-03-31,Interest,4.74,Percent
+1999-03-31,S&P 500,,Adjusted Close (SPY)
+1999-04-30,Inflation,166.2,Index
+1999-04-30,GDP,,Billions of Dollars
+1999-04-30,Unemployment,4.2,Percent
+1999-04-30,Interest,4.74,Percent
+1999-04-30,S&P 500,,Adjusted Close (SPY)
+1999-05-31,Inflation,166.2,Index
+1999-05-31,GDP,,Billions of Dollars
+1999-05-31,Unemployment,4.3,Percent
+1999-05-31,Interest,4.76,Percent
+1999-05-31,S&P 500,,Adjusted Close (SPY)
+1999-06-30,Inflation,166.7,Index
+1999-06-30,GDP,,Billions of Dollars
+1999-06-30,Unemployment,4.3,Percent
+1999-06-30,Interest,4.99,Percent
+1999-06-30,S&P 500,,Adjusted Close (SPY)
+1999-07-31,Inflation,167.1,Index
+1999-07-31,GDP,,Billions of Dollars
+1999-07-31,Unemployment,4.2,Percent
+1999-07-31,Interest,5.07,Percent
+1999-07-31,S&P 500,,Adjusted Close (SPY)
+1999-08-31,Inflation,167.9,Index
+1999-08-31,GDP,,Billions of Dollars
+1999-08-31,Unemployment,4.2,Percent
+1999-08-31,Interest,5.22,Percent
+1999-08-31,S&P 500,,Adjusted Close (SPY)
+1999-09-30,Inflation,168.2,Index
+1999-09-30,GDP,,Billions of Dollars
+1999-09-30,Unemployment,4.1,Percent
+1999-09-30,Interest,5.2,Percent
+1999-09-30,S&P 500,,Adjusted Close (SPY)
+1999-10-31,Inflation,168.3,Index
+1999-10-31,GDP,,Billions of Dollars
+1999-10-31,Unemployment,4.1,Percent
+1999-10-31,Interest,5.42,Percent
+1999-10-31,S&P 500,,Adjusted Close (SPY)
+1999-11-30,Inflation,168.3,Index
+1999-11-30,GDP,,Billions of Dollars
+1999-11-30,Unemployment,4.0,Percent
+1999-11-30,Interest,5.3,Percent
+1999-11-30,S&P 500,,Adjusted Close (SPY)
+1999-12-31,Inflation,168.8,Index
+1999-12-31,GDP,14096.033,Billions of Dollars
+1999-12-31,Unemployment,4.0,Percent
+1999-12-31,Interest,5.45,Percent
+1999-12-31,S&P 500,92.4501,Adjusted Close (SPY)
+2000-01-31,Inflation,169.8,Index
+2000-01-31,GDP,,Billions of Dollars
+2000-01-31,Unemployment,4.1,Percent
+2000-01-31,Interest,5.73,Percent
+2000-01-31,S&P 500,87.8473,Adjusted Close (SPY)
+2000-02-29,Inflation,171.2,Index
+2000-02-29,GDP,,Billions of Dollars
+2000-02-29,Unemployment,4.0,Percent
+2000-02-29,Interest,5.85,Percent
+2000-02-29,S&P 500,86.5097,Adjusted Close (SPY)
+2000-03-31,Inflation,171.3,Index
+2000-03-31,GDP,,Billions of Dollars
+2000-03-31,Unemployment,3.8,Percent
+2000-03-31,Interest,6.02,Percent
+2000-03-31,S&P 500,94.892,Adjusted Close (SPY)
+2000-04-30,Inflation,171.5,Index
+2000-04-30,GDP,,Billions of Dollars
+2000-04-30,Unemployment,4.0,Percent
+2000-04-30,Interest,6.27,Percent
+2000-04-30,S&P 500,91.5594,Adjusted Close (SPY)
+2000-05-31,Inflation,172.4,Index
+2000-05-31,GDP,,Billions of Dollars
+2000-05-31,Unemployment,4.0,Percent
+2000-05-31,Interest,6.53,Percent
+2000-05-31,S&P 500,90.1198,Adjusted Close (SPY)
+2000-06-30,Inflation,172.8,Index
+2000-06-30,GDP,,Billions of Dollars
+2000-06-30,Unemployment,4.0,Percent
+2000-06-30,Interest,6.54,Percent
+2000-06-30,S&P 500,91.8956,Adjusted Close (SPY)
+2000-07-31,Inflation,172.8,Index
+2000-07-31,GDP,,Billions of Dollars
+2000-07-31,Unemployment,4.1,Percent
+2000-07-31,Interest,6.5,Percent
+2000-07-31,S&P 500,90.4526,Adjusted Close (SPY)
+2000-08-31,Inflation,173.7,Index
+2000-08-31,GDP,,Billions of Dollars
+2000-08-31,Unemployment,3.9,Percent
+2000-08-31,Interest,6.52,Percent
+2000-08-31,S&P 500,96.3629,Adjusted Close (SPY)
+2000-09-30,Inflation,174.0,Index
+2000-09-30,GDP,,Billions of Dollars
+2000-09-30,Unemployment,3.9,Percent
+2000-09-30,Interest,6.51,Percent
+2000-09-30,S&P 500,91.0815,Adjusted Close (SPY)
+2000-10-31,Inflation,174.1,Index
+2000-10-31,GDP,,Billions of Dollars
+2000-10-31,Unemployment,3.9,Percent
+2000-10-31,Interest,6.51,Percent
+2000-10-31,S&P 500,90.6554,Adjusted Close (SPY)
+2000-11-30,Inflation,174.0,Index
+2000-11-30,GDP,,Billions of Dollars
+2000-11-30,Unemployment,3.9,Percent
+2000-11-30,Interest,6.4,Percent
+2000-11-30,S&P 500,83.8877,Adjusted Close (SPY)
+2000-12-31,Inflation,175.1,Index
+2000-12-31,GDP,14230.726,Billions of Dollars
+2000-12-31,Unemployment,4.2,Percent
+2000-12-31,Interest,5.98,Percent
+2000-12-31,S&P 500,83.4554,Adjusted Close (SPY)
+2001-01-31,Inflation,175.8,Index
+2001-01-31,GDP,,Billions of Dollars
+2001-01-31,Unemployment,4.2,Percent
+2001-01-31,Interest,5.49,Percent
+2001-01-31,S&P 500,87.1658,Adjusted Close (SPY)
+2001-02-28,Inflation,176.2,Index
+2001-02-28,GDP,,Billions of Dollars
+2001-02-28,Unemployment,4.3,Percent
+2001-02-28,Interest,5.31,Percent
+2001-02-28,S&P 500,78.8512,Adjusted Close (SPY)
+2001-03-31,Inflation,176.9,Index
+2001-03-31,GDP,,Billions of Dollars
+2001-03-31,Unemployment,4.4,Percent
+2001-03-31,Interest,4.8,Percent
+2001-03-31,S&P 500,74.4364,Adjusted Close (SPY)
+2001-04-30,Inflation,177.7,Index
+2001-04-30,GDP,,Billions of Dollars
+2001-04-30,Unemployment,4.3,Percent
+2001-04-30,Interest,4.21,Percent
+2001-04-30,S&P 500,80.7963,Adjusted Close (SPY)
+2001-05-31,Inflation,178.0,Index
+2001-05-31,GDP,,Billions of Dollars
+2001-05-31,Unemployment,4.5,Percent
+2001-05-31,Interest,3.97,Percent
+2001-05-31,S&P 500,80.3433,Adjusted Close (SPY)
+2001-06-30,Inflation,177.5,Index
+2001-06-30,GDP,,Billions of Dollars
+2001-06-30,Unemployment,4.6,Percent
+2001-06-30,Interest,3.77,Percent
+2001-06-30,S&P 500,78.4287,Adjusted Close (SPY)
+2001-07-31,Inflation,177.5,Index
+2001-07-31,GDP,,Billions of Dollars
+2001-07-31,Unemployment,4.9,Percent
+2001-07-31,Interest,3.65,Percent
+2001-07-31,S&P 500,77.6291,Adjusted Close (SPY)
+2001-08-31,Inflation,178.3,Index
+2001-08-31,GDP,,Billions of Dollars
+2001-08-31,Unemployment,5.0,Percent
+2001-08-31,Interest,3.07,Percent
+2001-08-31,S&P 500,73.0232,Adjusted Close (SPY)
+2001-09-30,Inflation,177.7,Index
+2001-09-30,GDP,,Billions of Dollars
+2001-09-30,Unemployment,5.3,Percent
+2001-09-30,Interest,2.49,Percent
+2001-09-30,S&P 500,67.065,Adjusted Close (SPY)
+2001-10-31,Inflation,177.4,Index
+2001-10-31,GDP,,Billions of Dollars
+2001-10-31,Unemployment,5.5,Percent
+2001-10-31,Interest,2.09,Percent
+2001-10-31,S&P 500,67.9383,Adjusted Close (SPY)
+2001-11-30,Inflation,176.7,Index
+2001-11-30,GDP,,Billions of Dollars
+2001-11-30,Unemployment,5.7,Percent
+2001-11-30,Interest,1.82,Percent
+2001-11-30,S&P 500,73.2359,Adjusted Close (SPY)
+2001-12-31,Inflation,177.1,Index
+2001-12-31,GDP,14472.712,Billions of Dollars
+2001-12-31,Unemployment,5.7,Percent
+2001-12-31,Interest,1.73,Percent
+2001-12-31,S&P 500,73.6473,Adjusted Close (SPY)
+2002-01-31,Inflation,177.8,Index
+2002-01-31,GDP,,Billions of Dollars
+2002-01-31,Unemployment,5.7,Percent
+2002-01-31,Interest,1.74,Percent
+2002-01-31,S&P 500,72.9256,Adjusted Close (SPY)
+2002-02-28,Inflation,178.8,Index
+2002-02-28,GDP,,Billions of Dollars
+2002-02-28,Unemployment,5.7,Percent
+2002-02-28,Interest,1.73,Percent
+2002-02-28,S&P 500,71.6176,Adjusted Close (SPY)
+2002-03-31,Inflation,179.8,Index
+2002-03-31,GDP,,Billions of Dollars
+2002-03-31,Unemployment,5.9,Percent
+2002-03-31,Interest,1.75,Percent
+2002-03-31,S&P 500,73.9984,Adjusted Close (SPY)
+2002-04-30,Inflation,179.8,Index
+2002-04-30,GDP,,Billions of Dollars
+2002-04-30,Unemployment,5.8,Percent
+2002-04-30,Interest,1.75,Percent
+2002-04-30,S&P 500,69.695,Adjusted Close (SPY)
+2002-05-31,Inflation,179.9,Index
+2002-05-31,GDP,,Billions of Dollars
+2002-05-31,Unemployment,5.8,Percent
+2002-05-31,Interest,1.75,Percent
+2002-05-31,S&P 500,69.2814,Adjusted Close (SPY)
+2002-06-30,Inflation,180.1,Index
+2002-06-30,GDP,,Billions of Dollars
+2002-06-30,Unemployment,5.8,Percent
+2002-06-30,Interest,1.73,Percent
+2002-06-30,S&P 500,64.1717,Adjusted Close (SPY)
+2002-07-31,Inflation,180.7,Index
+2002-07-31,GDP,,Billions of Dollars
+2002-07-31,Unemployment,5.7,Percent
+2002-07-31,Interest,1.74,Percent
+2002-07-31,S&P 500,59.1137,Adjusted Close (SPY)
+2002-08-31,Inflation,181.0,Index
+2002-08-31,GDP,,Billions of Dollars
+2002-08-31,Unemployment,5.7,Percent
+2002-08-31,Interest,1.75,Percent
+2002-08-31,S&P 500,59.5158,Adjusted Close (SPY)
+2002-09-30,Inflation,181.3,Index
+2002-09-30,GDP,,Billions of Dollars
+2002-09-30,Unemployment,5.7,Percent
+2002-09-30,Interest,1.75,Percent
+2002-09-30,S&P 500,53.2754,Adjusted Close (SPY)
+2002-10-31,Inflation,181.3,Index
+2002-10-31,GDP,,Billions of Dollars
+2002-10-31,Unemployment,5.9,Percent
+2002-10-31,Interest,1.34,Percent
+2002-10-31,S&P 500,57.6591,Adjusted Close (SPY)
+2002-11-30,Inflation,180.9,Index
+2002-11-30,GDP,,Billions of Dollars
+2002-11-30,Unemployment,6.0,Percent
+2002-11-30,Interest,1.24,Percent
+2002-11-30,S&P 500,61.2156,Adjusted Close (SPY)
+2002-12-31,Inflation,181.7,Index
+2002-12-31,GDP,14877.312,Billions of Dollars
+2002-12-31,Unemployment,5.8,Percent
+2002-12-31,Interest,1.24,Percent
+2002-12-31,S&P 500,57.7485,Adjusted Close (SPY)
+2003-01-31,Inflation,183.1,Index
+2003-01-31,GDP,,Billions of Dollars
+2003-01-31,Unemployment,5.9,Percent
+2003-01-31,Interest,1.26,Percent
+2003-01-31,S&P 500,56.3282,Adjusted Close (SPY)
+2003-02-28,Inflation,184.2,Index
+2003-02-28,GDP,,Billions of Dollars
+2003-02-28,Unemployment,5.9,Percent
+2003-02-28,Interest,1.25,Percent
+2003-02-28,S&P 500,55.569,Adjusted Close (SPY)
+2003-03-31,Inflation,183.8,Index
+2003-03-31,GDP,,Billions of Dollars
+2003-03-31,Unemployment,6.0,Percent
+2003-03-31,Interest,1.26,Percent
+2003-03-31,S&P 500,55.6834,Adjusted Close (SPY)
+2003-04-30,Inflation,183.5,Index
+2003-04-30,GDP,,Billions of Dollars
+2003-04-30,Unemployment,6.1,Percent
+2003-04-30,Interest,1.26,Percent
+2003-04-30,S&P 500,60.3949,Adjusted Close (SPY)
+2003-05-31,Inflation,183.7,Index
+2003-05-31,GDP,,Billions of Dollars
+2003-05-31,Unemployment,6.3,Percent
+2003-05-31,Interest,1.22,Percent
+2003-05-31,S&P 500,63.7067,Adjusted Close (SPY)
+2003-06-30,Inflation,183.9,Index
+2003-06-30,GDP,,Billions of Dollars
+2003-06-30,Unemployment,6.2,Percent
+2003-06-30,Interest,1.01,Percent
+2003-06-30,S&P 500,64.386,Adjusted Close (SPY)
+2003-07-31,Inflation,184.6,Index
+2003-07-31,GDP,,Billions of Dollars
+2003-07-31,Unemployment,6.1,Percent
+2003-07-31,Interest,1.03,Percent
+2003-07-31,S&P 500,65.5467,Adjusted Close (SPY)
+2003-08-31,Inflation,185.2,Index
+2003-08-31,GDP,,Billions of Dollars
+2003-08-31,Unemployment,6.1,Percent
+2003-08-31,Interest,1.01,Percent
+2003-08-31,S&P 500,66.8987,Adjusted Close (SPY)
+2003-09-30,Inflation,185.0,Index
+2003-09-30,GDP,,Billions of Dollars
+2003-09-30,Unemployment,6.0,Percent
+2003-09-30,Interest,1.01,Percent
+2003-09-30,S&P 500,66.1704,Adjusted Close (SPY)
+2003-10-31,Inflation,184.5,Index
+2003-10-31,GDP,,Billions of Dollars
+2003-10-31,Unemployment,5.8,Percent
+2003-10-31,Interest,1.0,Percent
+2003-10-31,S&P 500,69.7123,Adjusted Close (SPY)
+2003-11-30,Inflation,184.3,Index
+2003-11-30,GDP,,Billions of Dollars
+2003-11-30,Unemployment,5.7,Percent
+2003-11-30,Interest,0.98,Percent
+2003-11-30,S&P 500,70.4736,Adjusted Close (SPY)
+2003-12-31,Inflation,185.2,Index
+2003-12-31,GDP,15449.757,Billions of Dollars
+2003-12-31,Unemployment,5.7,Percent
+2003-12-31,Interest,1.0,Percent
+2003-12-31,S&P 500,74.02,Adjusted Close (SPY)
+2004-01-31,Inflation,186.2,Index
+2004-01-31,GDP,,Billions of Dollars
+2004-01-31,Unemployment,5.6,Percent
+2004-01-31,Interest,1.01,Percent
+2004-01-31,S&P 500,75.4834,Adjusted Close (SPY)
+2004-02-29,Inflation,187.4,Index
+2004-02-29,GDP,,Billions of Dollars
+2004-02-29,Unemployment,5.8,Percent
+2004-02-29,Interest,1.0,Percent
+2004-02-29,S&P 500,76.5078,Adjusted Close (SPY)
+2004-03-31,Inflation,188.0,Index
+2004-03-31,GDP,,Billions of Dollars
+2004-03-31,Unemployment,5.6,Percent
+2004-03-31,Interest,1.0,Percent
+2004-03-31,S&P 500,75.498,Adjusted Close (SPY)
+2004-04-30,Inflation,189.1,Index
+2004-04-30,GDP,,Billions of Dollars
+2004-04-30,Unemployment,5.6,Percent
+2004-04-30,Interest,1.0,Percent
+2004-04-30,S&P 500,74.0695,Adjusted Close (SPY)
+2004-05-31,Inflation,189.7,Index
+2004-05-31,GDP,,Billions of Dollars
+2004-05-31,Unemployment,5.6,Percent
+2004-05-31,Interest,1.03,Percent
+2004-05-31,S&P 500,75.3378,Adjusted Close (SPY)
+2004-06-30,Inflation,189.4,Index
+2004-06-30,GDP,,Billions of Dollars
+2004-06-30,Unemployment,5.5,Percent
+2004-06-30,Interest,1.26,Percent
+2004-06-30,S&P 500,76.731,Adjusted Close (SPY)
+2004-07-31,Inflation,189.5,Index
+2004-07-31,GDP,,Billions of Dollars
+2004-07-31,Unemployment,5.4,Percent
+2004-07-31,Interest,1.43,Percent
+2004-07-31,S&P 500,74.2588,Adjusted Close (SPY)
+2004-08-31,Inflation,189.9,Index
+2004-08-31,GDP,,Billions of Dollars
+2004-08-31,Unemployment,5.4,Percent
+2004-08-31,Interest,1.61,Percent
+2004-08-31,S&P 500,74.4397,Adjusted Close (SPY)
+2004-09-30,Inflation,190.9,Index
+2004-09-30,GDP,,Billions of Dollars
+2004-09-30,Unemployment,5.5,Percent
+2004-09-30,Interest,1.76,Percent
+2004-09-30,S&P 500,75.1854,Adjusted Close (SPY)
+2004-10-31,Inflation,191.0,Index
+2004-10-31,GDP,,Billions of Dollars
+2004-10-31,Unemployment,5.4,Percent
+2004-10-31,Interest,1.93,Percent
+2004-10-31,S&P 500,76.1542,Adjusted Close (SPY)
+2004-11-30,Inflation,190.3,Index
+2004-11-30,GDP,,Billions of Dollars
+2004-11-30,Unemployment,5.4,Percent
+2004-11-30,Interest,2.16,Percent
+2004-11-30,S&P 500,79.5438,Adjusted Close (SPY)
+2004-12-31,Inflation,190.7,Index
+2004-12-31,GDP,15987.957,Billions of Dollars
+2004-12-31,Unemployment,5.3,Percent
+2004-12-31,Interest,2.28,Percent
+2004-12-31,S&P 500,81.9422,Adjusted Close (SPY)
+2005-01-31,Inflation,191.8,Index
+2005-01-31,GDP,,Billions of Dollars
+2005-01-31,Unemployment,5.4,Percent
+2005-01-31,Interest,2.5,Percent
+2005-01-31,S&P 500,80.105,Adjusted Close (SPY)
+2005-02-28,Inflation,193.3,Index
+2005-02-28,GDP,,Billions of Dollars
+2005-02-28,Unemployment,5.2,Percent
+2005-02-28,Interest,2.63,Percent
+2005-02-28,S&P 500,81.7795,Adjusted Close (SPY)
+2005-03-31,Inflation,194.6,Index
+2005-03-31,GDP,,Billions of Dollars
+2005-03-31,Unemployment,5.2,Percent
+2005-03-31,Interest,2.79,Percent
+2005-03-31,S&P 500,80.2845,Adjusted Close (SPY)
+2005-04-30,Inflation,194.4,Index
+2005-04-30,GDP,,Billions of Dollars
+2005-04-30,Unemployment,5.1,Percent
+2005-04-30,Interest,3.0,Percent
+2005-04-30,S&P 500,78.7804,Adjusted Close (SPY)
+2005-05-31,Inflation,194.5,Index
+2005-05-31,GDP,,Billions of Dollars
+2005-05-31,Unemployment,5.0,Percent
+2005-05-31,Interest,3.04,Percent
+2005-05-31,S&P 500,81.3191,Adjusted Close (SPY)
+2005-06-30,Inflation,195.4,Index
+2005-06-30,GDP,,Billions of Dollars
+2005-06-30,Unemployment,5.0,Percent
+2005-06-30,Interest,3.26,Percent
+2005-06-30,S&P 500,81.4408,Adjusted Close (SPY)
+2005-07-31,Inflation,196.4,Index
+2005-07-31,GDP,,Billions of Dollars
+2005-07-31,Unemployment,4.9,Percent
+2005-07-31,Interest,3.5,Percent
+2005-07-31,S&P 500,84.5568,Adjusted Close (SPY)
+2005-08-31,Inflation,198.8,Index
+2005-08-31,GDP,,Billions of Dollars
+2005-08-31,Unemployment,5.0,Percent
+2005-08-31,Interest,3.62,Percent
+2005-08-31,S&P 500,83.7642,Adjusted Close (SPY)
+2005-09-30,Inflation,199.2,Index
+2005-09-30,GDP,,Billions of Dollars
+2005-09-30,Unemployment,5.0,Percent
+2005-09-30,Interest,3.78,Percent
+2005-09-30,S&P 500,84.4337,Adjusted Close (SPY)
+2005-10-31,Inflation,197.6,Index
+2005-10-31,GDP,,Billions of Dollars
+2005-10-31,Unemployment,5.0,Percent
+2005-10-31,Interest,4.0,Percent
+2005-10-31,S&P 500,82.4367,Adjusted Close (SPY)
+2005-11-30,Inflation,196.8,Index
+2005-11-30,GDP,,Billions of Dollars
+2005-11-30,Unemployment,4.9,Percent
+2005-11-30,Interest,4.16,Percent
+2005-11-30,S&P 500,86.06,Adjusted Close (SPY)
+2005-12-31,Inflation,198.3,Index
+2005-12-31,GDP,16433.148,Billions of Dollars
+2005-12-31,Unemployment,4.7,Percent
+2005-12-31,Interest,4.29,Percent
+2005-12-31,S&P 500,85.8966,Adjusted Close (SPY)
+2006-01-31,Inflation,198.7,Index
+2006-01-31,GDP,,Billions of Dollars
+2006-01-31,Unemployment,4.8,Percent
+2006-01-31,Interest,4.49,Percent
+2006-01-31,S&P 500,87.9593,Adjusted Close (SPY)
+2006-02-28,Inflation,199.8,Index
+2006-02-28,GDP,,Billions of Dollars
+2006-02-28,Unemployment,4.7,Percent
+2006-02-28,Interest,4.59,Percent
+2006-02-28,S&P 500,88.4629,Adjusted Close (SPY)
+2006-03-31,Inflation,201.5,Index
+2006-03-31,GDP,,Billions of Dollars
+2006-03-31,Unemployment,4.7,Percent
+2006-03-31,Interest,4.79,Percent
+2006-03-31,S&P 500,89.923,Adjusted Close (SPY)
+2006-04-30,Inflation,202.5,Index
+2006-04-30,GDP,,Billions of Dollars
+2006-04-30,Unemployment,4.6,Percent
+2006-04-30,Interest,4.94,Percent
+2006-04-30,S&P 500,91.0589,Adjusted Close (SPY)
+2006-05-31,Inflation,202.9,Index
+2006-05-31,GDP,,Billions of Dollars
+2006-05-31,Unemployment,4.6,Percent
+2006-05-31,Interest,4.99,Percent
+2006-05-31,S&P 500,88.3161,Adjusted Close (SPY)
+2006-06-30,Inflation,203.5,Index
+2006-06-30,GDP,,Billions of Dollars
+2006-06-30,Unemployment,4.7,Percent
+2006-06-30,Interest,5.24,Percent
+2006-06-30,S&P 500,88.5496,Adjusted Close (SPY)
+2006-07-31,Inflation,203.9,Index
+2006-07-31,GDP,,Billions of Dollars
+2006-07-31,Unemployment,4.7,Percent
+2006-07-31,Interest,5.25,Percent
+2006-07-31,S&P 500,88.9462,Adjusted Close (SPY)
+2006-08-31,Inflation,202.9,Index
+2006-08-31,GDP,,Billions of Dollars
+2006-08-31,Unemployment,4.5,Percent
+2006-08-31,Interest,5.25,Percent
+2006-08-31,S&P 500,90.8872,Adjusted Close (SPY)
+2006-09-30,Inflation,201.8,Index
+2006-09-30,GDP,,Billions of Dollars
+2006-09-30,Unemployment,4.4,Percent
+2006-09-30,Interest,5.25,Percent
+2006-09-30,S&P 500,93.3406,Adjusted Close (SPY)
+2006-10-31,Inflation,201.5,Index
+2006-10-31,GDP,,Billions of Dollars
+2006-10-31,Unemployment,4.5,Percent
+2006-10-31,Interest,5.25,Percent
+2006-10-31,S&P 500,96.2824,Adjusted Close (SPY)
+2006-11-30,Inflation,201.8,Index
+2006-11-30,GDP,,Billions of Dollars
+2006-11-30,Unemployment,4.4,Percent
+2006-11-30,Interest,5.24,Percent
+2006-11-30,S&P 500,98.197,Adjusted Close (SPY)
+2006-12-31,Inflation,202.416,Index
+2006-12-31,GDP,16762.445,Billions of Dollars
+2006-12-31,Unemployment,4.6,Percent
+2006-12-31,Interest,5.25,Percent
+2006-12-31,S&P 500,99.5097,Adjusted Close (SPY)
+2007-01-31,Inflation,203.499,Index
+2007-01-31,GDP,,Billions of Dollars
+2007-01-31,Unemployment,4.5,Percent
+2007-01-31,Interest,5.26,Percent
+2007-01-31,S&P 500,101.0063,Adjusted Close (SPY)
+2007-02-28,Inflation,205.352,Index
+2007-02-28,GDP,,Billions of Dollars
+2007-02-28,Unemployment,4.4,Percent
+2007-02-28,Interest,5.26,Percent
+2007-02-28,S&P 500,99.0249,Adjusted Close (SPY)
+2007-03-31,Inflation,206.686,Index
+2007-03-31,GDP,,Billions of Dollars
+2007-03-31,Unemployment,4.5,Percent
+2007-03-31,Interest,5.25,Percent
+2007-03-31,S&P 500,100.1738,Adjusted Close (SPY)
+2007-04-30,Inflation,207.949,Index
+2007-04-30,GDP,,Billions of Dollars
+2007-04-30,Unemployment,4.4,Percent
+2007-04-30,Interest,5.25,Percent
+2007-04-30,S&P 500,104.611,Adjusted Close (SPY)
+2007-05-31,Inflation,208.352,Index
+2007-05-31,GDP,,Billions of Dollars
+2007-05-31,Unemployment,4.6,Percent
+2007-05-31,Interest,5.25,Percent
+2007-05-31,S&P 500,108.1594,Adjusted Close (SPY)
+2007-06-30,Inflation,208.299,Index
+2007-06-30,GDP,,Billions of Dollars
+2007-06-30,Unemployment,4.7,Percent
+2007-06-30,Interest,5.26,Percent
+2007-06-30,S&P 500,106.5752,Adjusted Close (SPY)
+2007-07-31,Inflation,207.917,Index
+2007-07-31,GDP,,Billions of Dollars
+2007-07-31,Unemployment,4.6,Percent
+2007-07-31,Interest,5.02,Percent
+2007-07-31,S&P 500,103.2383,Adjusted Close (SPY)
+2007-08-31,Inflation,208.49,Index
+2007-08-31,GDP,,Billions of Dollars
+2007-08-31,Unemployment,4.7,Percent
+2007-08-31,Interest,4.94,Percent
+2007-08-31,S&P 500,104.5631,Adjusted Close (SPY)
+2007-09-30,Inflation,208.936,Index
+2007-09-30,GDP,,Billions of Dollars
+2007-09-30,Unemployment,4.7,Percent
+2007-09-30,Interest,4.76,Percent
+2007-09-30,S&P 500,108.6097,Adjusted Close (SPY)
+2007-10-31,Inflation,210.177,Index
+2007-10-31,GDP,,Billions of Dollars
+2007-10-31,Unemployment,4.7,Percent
+2007-10-31,Interest,4.49,Percent
+2007-10-31,S&P 500,110.0831,Adjusted Close (SPY)
+2007-11-30,Inflation,210.036,Index
+2007-11-30,GDP,,Billions of Dollars
+2007-11-30,Unemployment,5.0,Percent
+2007-11-30,Interest,4.24,Percent
+2007-11-30,S&P 500,105.8193,Adjusted Close (SPY)
+2007-12-31,Inflation,211.08,Index
+2007-12-31,GDP,16781.485,Billions of Dollars
+2007-12-31,Unemployment,5.0,Percent
+2007-12-31,Interest,3.94,Percent
+2007-12-31,S&P 500,104.6202,Adjusted Close (SPY)
+2008-01-31,Inflation,211.693,Index
+2008-01-31,GDP,,Billions of Dollars
+2008-01-31,Unemployment,4.9,Percent
+2008-01-31,Interest,2.98,Percent
+2008-01-31,S&P 500,98.2947,Adjusted Close (SPY)
+2008-02-29,Inflation,213.528,Index
+2008-02-29,GDP,,Billions of Dollars
+2008-02-29,Unemployment,5.1,Percent
+2008-02-29,Interest,2.61,Percent
+2008-02-29,S&P 500,95.7545,Adjusted Close (SPY)
+2008-03-31,Inflation,214.823,Index
+2008-03-31,GDP,,Billions of Dollars
+2008-03-31,Unemployment,5.0,Percent
+2008-03-31,Interest,2.28,Percent
+2008-03-31,S&P 500,94.8897,Adjusted Close (SPY)
+2008-04-30,Inflation,216.632,Index
+2008-04-30,GDP,,Billions of Dollars
+2008-04-30,Unemployment,5.4,Percent
+2008-04-30,Interest,1.98,Percent
+2008-04-30,S&P 500,99.4124,Adjusted Close (SPY)
+2008-05-31,Inflation,218.815,Index
+2008-05-31,GDP,,Billions of Dollars
+2008-05-31,Unemployment,5.6,Percent
+2008-05-31,Interest,2.0,Percent
+2008-05-31,S&P 500,100.9152,Adjusted Close (SPY)
+2008-06-30,Inflation,219.964,Index
+2008-06-30,GDP,,Billions of Dollars
+2008-06-30,Unemployment,5.8,Percent
+2008-06-30,Interest,2.01,Percent
+2008-06-30,S&P 500,92.4888,Adjusted Close (SPY)
+2008-07-31,Inflation,219.086,Index
+2008-07-31,GDP,,Billions of Dollars
+2008-07-31,Unemployment,6.1,Percent
+2008-07-31,Interest,2.0,Percent
+2008-07-31,S&P 500,91.6577,Adjusted Close (SPY)
+2008-08-31,Inflation,218.783,Index
+2008-08-31,GDP,,Billions of Dollars
+2008-08-31,Unemployment,6.1,Percent
+2008-08-31,Interest,1.81,Percent
+2008-08-31,S&P 500,93.0742,Adjusted Close (SPY)
+2008-09-30,Inflation,216.573,Index
+2008-09-30,GDP,,Billions of Dollars
+2008-09-30,Unemployment,6.5,Percent
+2008-09-30,Interest,0.97,Percent
+2008-09-30,S&P 500,84.2905,Adjusted Close (SPY)
+2008-10-31,Inflation,212.425,Index
+2008-10-31,GDP,,Billions of Dollars
+2008-10-31,Unemployment,6.8,Percent
+2008-10-31,Interest,0.39,Percent
+2008-10-31,S&P 500,70.3668,Adjusted Close (SPY)
+2008-11-30,Inflation,210.228,Index
+2008-11-30,GDP,,Billions of Dollars
+2008-11-30,Unemployment,7.3,Percent
+2008-11-30,Interest,0.16,Percent
+2008-11-30,S&P 500,65.4688,Adjusted Close (SPY)
+2008-12-31,Inflation,211.143,Index
+2008-12-31,GDP,16349.11,Billions of Dollars
+2008-12-31,Unemployment,7.8,Percent
+2008-12-31,Interest,0.15,Percent
+2008-12-31,S&P 500,66.1127,Adjusted Close (SPY)
+2009-01-31,Inflation,212.193,Index
+2009-01-31,GDP,,Billions of Dollars
+2009-01-31,Unemployment,8.3,Percent
+2009-01-31,Interest,0.22,Percent
+2009-01-31,S&P 500,60.6839,Adjusted Close (SPY)
+2009-02-28,Inflation,212.709,Index
+2009-02-28,GDP,,Billions of Dollars
+2009-02-28,Unemployment,8.7,Percent
+2009-02-28,Interest,0.18,Percent
+2009-02-28,S&P 500,54.1635,Adjusted Close (SPY)
+2009-03-31,Inflation,213.24,Index
+2009-03-31,GDP,,Billions of Dollars
+2009-03-31,Unemployment,9.0,Percent
+2009-03-31,Interest,0.15,Percent
+2009-03-31,S&P 500,58.6853,Adjusted Close (SPY)
+2009-04-30,Inflation,213.856,Index
+2009-04-30,GDP,,Billions of Dollars
+2009-04-30,Unemployment,9.4,Percent
+2009-04-30,Interest,0.18,Percent
+2009-04-30,S&P 500,64.5155,Adjusted Close (SPY)
+2009-05-31,Inflation,215.693,Index
+2009-05-31,GDP,,Billions of Dollars
+2009-05-31,Unemployment,9.5,Percent
+2009-05-31,Interest,0.21,Percent
+2009-05-31,S&P 500,68.2866,Adjusted Close (SPY)
+2009-06-30,Inflation,215.351,Index
+2009-06-30,GDP,,Billions of Dollars
+2009-06-30,Unemployment,9.5,Percent
+2009-06-30,Interest,0.16,Percent
+2009-06-30,S&P 500,68.2406,Adjusted Close (SPY)
+2009-07-31,Inflation,215.834,Index
+2009-07-31,GDP,,Billions of Dollars
+2009-07-31,Unemployment,9.6,Percent
+2009-07-31,Interest,0.16,Percent
+2009-07-31,S&P 500,73.3318,Adjusted Close (SPY)
+2009-08-31,Inflation,215.969,Index
+2009-08-31,GDP,,Billions of Dollars
+2009-08-31,Unemployment,9.8,Percent
+2009-08-31,Interest,0.15,Percent
+2009-08-31,S&P 500,76.0406,Adjusted Close (SPY)
+2009-09-30,Inflation,216.177,Index
+2009-09-30,GDP,,Billions of Dollars
+2009-09-30,Unemployment,10.0,Percent
+2009-09-30,Interest,0.12,Percent
+2009-09-30,S&P 500,78.7368,Adjusted Close (SPY)
+2009-10-31,Inflation,216.33,Index
+2009-10-31,GDP,,Billions of Dollars
+2009-10-31,Unemployment,9.9,Percent
+2009-10-31,Interest,0.12,Percent
+2009-10-31,S&P 500,77.2231,Adjusted Close (SPY)
+2009-11-30,Inflation,215.949,Index
+2009-11-30,GDP,,Billions of Dollars
+2009-11-30,Unemployment,9.9,Percent
+2009-11-30,Interest,0.12,Percent
+2009-11-30,S&P 500,81.9805,Adjusted Close (SPY)
+2009-12-31,Inflation,216.687,Index
+2009-12-31,GDP,16789.75,Billions of Dollars
+2009-12-31,Unemployment,9.8,Percent
+2009-12-31,Interest,0.11,Percent
+2009-12-31,S&P 500,83.5441,Adjusted Close (SPY)
+2010-01-31,Inflation,216.741,Index
+2010-01-31,GDP,,Billions of Dollars
+2010-01-31,Unemployment,9.8,Percent
+2010-01-31,Interest,0.13,Percent
+2010-01-31,S&P 500,80.5079,Adjusted Close (SPY)
+2010-02-28,Inflation,217.631,Index
+2010-02-28,GDP,,Billions of Dollars
+2010-02-28,Unemployment,9.9,Percent
+2010-02-28,Interest,0.16,Percent
+2010-02-28,S&P 500,83.0193,Adjusted Close (SPY)
+2010-03-31,Inflation,218.009,Index
+2010-03-31,GDP,,Billions of Dollars
+2010-03-31,Unemployment,9.9,Percent
+2010-03-31,Interest,0.2,Percent
+2010-03-31,S&P 500,88.0756,Adjusted Close (SPY)
+2010-04-30,Inflation,218.178,Index
+2010-04-30,GDP,,Billions of Dollars
+2010-04-30,Unemployment,9.6,Percent
+2010-04-30,Interest,0.2,Percent
+2010-04-30,S&P 500,89.4381,Adjusted Close (SPY)
+2010-05-31,Inflation,217.965,Index
+2010-05-31,GDP,,Billions of Dollars
+2010-05-31,Unemployment,9.4,Percent
+2010-05-31,Interest,0.18,Percent
+2010-05-31,S&P 500,82.3319,Adjusted Close (SPY)
+2010-06-30,Inflation,218.011,Index
+2010-06-30,GDP,,Billions of Dollars
+2010-06-30,Unemployment,9.4,Percent
+2010-06-30,Interest,0.18,Percent
+2010-06-30,S&P 500,78.0717,Adjusted Close (SPY)
+2010-07-31,Inflation,218.312,Index
+2010-07-31,GDP,,Billions of Dollars
+2010-07-31,Unemployment,9.5,Percent
+2010-07-31,Interest,0.19,Percent
+2010-07-31,S&P 500,83.4041,Adjusted Close (SPY)
+2010-08-31,Inflation,218.439,Index
+2010-08-31,GDP,,Billions of Dollars
+2010-08-31,Unemployment,9.5,Percent
+2010-08-31,Interest,0.19,Percent
+2010-08-31,S&P 500,79.6525,Adjusted Close (SPY)
+2010-09-30,Inflation,218.711,Index
+2010-09-30,GDP,,Billions of Dollars
+2010-09-30,Unemployment,9.4,Percent
+2010-09-30,Interest,0.19,Percent
+2010-09-30,S&P 500,86.7857,Adjusted Close (SPY)
+2010-10-31,Inflation,218.803,Index
+2010-10-31,GDP,,Billions of Dollars
+2010-10-31,Unemployment,9.8,Percent
+2010-10-31,Interest,0.19,Percent
+2010-10-31,S&P 500,90.1011,Adjusted Close (SPY)
+2010-11-30,Inflation,219.179,Index
+2010-11-30,GDP,,Billions of Dollars
+2010-11-30,Unemployment,9.3,Percent
+2010-11-30,Interest,0.18,Percent
+2010-11-30,S&P 500,90.1011,Adjusted Close (SPY)
+2010-12-31,Inflation,220.223,Index
+2010-12-31,GDP,17052.41,Billions of Dollars
+2010-12-31,Unemployment,9.1,Percent
+2010-12-31,Interest,0.17,Percent
+2010-12-31,S&P 500,96.1238,Adjusted Close (SPY)
+2011-01-31,Inflation,221.309,Index
+2011-01-31,GDP,,Billions of Dollars
+2011-01-31,Unemployment,9.0,Percent
+2011-01-31,Interest,0.16,Percent
+2011-01-31,S&P 500,98.3635,Adjusted Close (SPY)
+2011-02-28,Inflation,223.467,Index
+2011-02-28,GDP,,Billions of Dollars
+2011-02-28,Unemployment,9.0,Percent
+2011-02-28,Interest,0.14,Percent
+2011-02-28,S&P 500,101.7804,Adjusted Close (SPY)
+2011-03-31,Inflation,224.906,Index
+2011-03-31,GDP,,Billions of Dollars
+2011-03-31,Unemployment,9.1,Percent
+2011-03-31,Interest,0.1,Percent
+2011-03-31,S&P 500,101.7913,Adjusted Close (SPY)
+2011-04-30,Inflation,225.964,Index
+2011-04-30,GDP,,Billions of Dollars
+2011-04-30,Unemployment,9.0,Percent
+2011-04-30,Interest,0.09,Percent
+2011-04-30,S&P 500,104.7393,Adjusted Close (SPY)
+2011-05-31,Inflation,225.722,Index
+2011-05-31,GDP,,Billions of Dollars
+2011-05-31,Unemployment,9.1,Percent
+2011-05-31,Interest,0.09,Percent
+2011-05-31,S&P 500,103.5647,Adjusted Close (SPY)
+2011-06-30,Inflation,225.922,Index
+2011-06-30,GDP,,Billions of Dollars
+2011-06-30,Unemployment,9.0,Percent
+2011-06-30,Interest,0.07,Percent
+2011-06-30,S&P 500,101.8158,Adjusted Close (SPY)
+2011-07-31,Inflation,226.545,Index
+2011-07-31,GDP,,Billions of Dollars
+2011-07-31,Unemployment,9.0,Percent
+2011-07-31,Interest,0.1,Percent
+2011-07-31,S&P 500,99.779,Adjusted Close (SPY)
+2011-08-31,Inflation,226.889,Index
+2011-08-31,GDP,,Billions of Dollars
+2011-08-31,Unemployment,9.0,Percent
+2011-08-31,Interest,0.08,Percent
+2011-08-31,S&P 500,94.2936,Adjusted Close (SPY)
+2011-09-30,Inflation,226.421,Index
+2011-09-30,GDP,,Billions of Dollars
+2011-09-30,Unemployment,8.8,Percent
+2011-09-30,Interest,0.07,Percent
+2011-09-30,S&P 500,87.745,Adjusted Close (SPY)
+2011-10-31,Inflation,226.23,Index
+2011-10-31,GDP,,Billions of Dollars
+2011-10-31,Unemployment,8.6,Percent
+2011-10-31,Interest,0.08,Percent
+2011-10-31,S&P 500,97.3221,Adjusted Close (SPY)
+2011-11-30,Inflation,225.672,Index
+2011-11-30,GDP,,Billions of Dollars
+2011-11-30,Unemployment,8.5,Percent
+2011-11-30,Interest,0.07,Percent
+2011-11-30,S&P 500,96.9266,Adjusted Close (SPY)
+2011-12-31,Inflation,226.665,Index
+2011-12-31,GDP,17442.759,Billions of Dollars
+2011-12-31,Unemployment,8.3,Percent
+2011-12-31,Interest,0.08,Percent
+2011-12-31,S&P 500,97.9385,Adjusted Close (SPY)
+2012-01-31,Inflation,227.663,Index
+2012-01-31,GDP,,Billions of Dollars
+2012-01-31,Unemployment,8.3,Percent
+2012-01-31,Interest,0.1,Percent
+2012-01-31,S&P 500,102.4804,Adjusted Close (SPY)
+2012-02-29,Inflation,229.392,Index
+2012-02-29,GDP,,Billions of Dollars
+2012-02-29,Unemployment,8.2,Percent
+2012-02-29,Interest,0.13,Percent
+2012-02-29,S&P 500,106.9286,Adjusted Close (SPY)
+2012-03-31,Inflation,230.085,Index
+2012-03-31,GDP,,Billions of Dollars
+2012-03-31,Unemployment,8.2,Percent
+2012-03-31,Interest,0.14,Percent
+2012-03-31,S&P 500,110.3671,Adjusted Close (SPY)
+2012-04-30,Inflation,229.815,Index
+2012-04-30,GDP,,Billions of Dollars
+2012-04-30,Unemployment,8.2,Percent
+2012-04-30,Interest,0.16,Percent
+2012-04-30,S&P 500,109.6303,Adjusted Close (SPY)
+2012-05-31,Inflation,229.478,Index
+2012-05-31,GDP,,Billions of Dollars
+2012-05-31,Unemployment,8.2,Percent
+2012-05-31,Interest,0.16,Percent
+2012-05-31,S&P 500,103.0464,Adjusted Close (SPY)
+2012-06-30,Inflation,229.104,Index
+2012-06-30,GDP,,Billions of Dollars
+2012-06-30,Unemployment,8.2,Percent
+2012-06-30,Interest,0.16,Percent
+2012-06-30,S&P 500,107.2227,Adjusted Close (SPY)
+2012-07-31,Inflation,230.379,Index
+2012-07-31,GDP,,Billions of Dollars
+2012-07-31,Unemployment,8.1,Percent
+2012-07-31,Interest,0.13,Percent
+2012-07-31,S&P 500,108.4911,Adjusted Close (SPY)
+2012-08-31,Inflation,231.407,Index
+2012-08-31,GDP,,Billions of Dollars
+2012-08-31,Unemployment,7.8,Percent
+2012-08-31,Interest,0.14,Percent
+2012-08-31,S&P 500,111.2091,Adjusted Close (SPY)
+2012-09-30,Inflation,231.317,Index
+2012-09-30,GDP,,Billions of Dollars
+2012-09-30,Unemployment,7.8,Percent
+2012-09-30,Interest,0.16,Percent
+2012-09-30,S&P 500,114.029,Adjusted Close (SPY)
+2012-10-31,Inflation,230.221,Index
+2012-10-31,GDP,,Billions of Dollars
+2012-10-31,Unemployment,7.7,Percent
+2012-10-31,Interest,0.16,Percent
+2012-10-31,S&P 500,111.9538,Adjusted Close (SPY)
+2012-11-30,Inflation,229.601,Index
+2012-11-30,GDP,,Billions of Dollars
+2012-11-30,Unemployment,7.9,Percent
+2012-11-30,Interest,0.16,Percent
+2012-11-30,S&P 500,112.5875,Adjusted Close (SPY)
+2012-12-31,Inflation,230.28,Index
+2012-12-31,GDP,17812.167,Billions of Dollars
+2012-12-31,Unemployment,8.0,Percent
+2012-12-31,Interest,0.14,Percent
+2012-12-31,S&P 500,113.6005,Adjusted Close (SPY)
+2013-01-31,Inflation,232.166,Index
+2013-01-31,GDP,,Billions of Dollars
+2013-01-31,Unemployment,7.7,Percent
+2013-01-31,Interest,0.15,Percent
+2013-01-31,S&P 500,119.4158,Adjusted Close (SPY)
+2013-02-28,Inflation,232.773,Index
+2013-02-28,GDP,,Billions of Dollars
+2013-02-28,Unemployment,7.5,Percent
+2013-02-28,Interest,0.14,Percent
+2013-02-28,S&P 500,120.9394,Adjusted Close (SPY)
+2013-03-31,Inflation,232.531,Index
+2013-03-31,GDP,,Billions of Dollars
+2013-03-31,Unemployment,7.6,Percent
+2013-03-31,Interest,0.15,Percent
+2013-03-31,S&P 500,125.5321,Adjusted Close (SPY)
+2013-04-30,Inflation,232.945,Index
+2013-04-30,GDP,,Billions of Dollars
+2013-04-30,Unemployment,7.5,Percent
+2013-04-30,Interest,0.11,Percent
+2013-04-30,S&P 500,127.9439,Adjusted Close (SPY)
+2013-05-31,Inflation,233.504,Index
+2013-05-31,GDP,,Billions of Dollars
+2013-05-31,Unemployment,7.5,Percent
+2013-05-31,Interest,0.09,Percent
+2013-05-31,S&P 500,130.9646,Adjusted Close (SPY)
+2013-06-30,Inflation,233.596,Index
+2013-06-30,GDP,,Billions of Dollars
+2013-06-30,Unemployment,7.3,Percent
+2013-06-30,Interest,0.09,Percent
+2013-06-30,S&P 500,129.2149,Adjusted Close (SPY)
+2013-07-31,Inflation,233.877,Index
+2013-07-31,GDP,,Billions of Dollars
+2013-07-31,Unemployment,7.2,Percent
+2013-07-31,Interest,0.08,Percent
+2013-07-31,S&P 500,135.8923,Adjusted Close (SPY)
+2013-08-31,Inflation,234.149,Index
+2013-08-31,GDP,,Billions of Dollars
+2013-08-31,Unemployment,7.2,Percent
+2013-08-31,Interest,0.08,Percent
+2013-08-31,S&P 500,131.8166,Adjusted Close (SPY)
+2013-09-30,Inflation,233.546,Index
+2013-09-30,GDP,,Billions of Dollars
+2013-09-30,Unemployment,7.2,Percent
+2013-09-30,Interest,0.09,Percent
+2013-09-30,S&P 500,135.9927,Adjusted Close (SPY)
+2013-10-31,Inflation,233.069,Index
+2013-10-31,GDP,,Billions of Dollars
+2013-10-31,Unemployment,6.9,Percent
+2013-10-31,Interest,0.08,Percent
+2013-10-31,S&P 500,142.2901,Adjusted Close (SPY)
+2013-11-30,Inflation,233.049,Index
+2013-11-30,GDP,,Billions of Dollars
+2013-11-30,Unemployment,6.7,Percent
+2013-11-30,Interest,0.09,Percent
+2013-11-30,S&P 500,146.5072,Adjusted Close (SPY)
+2013-12-31,Inflation,233.916,Index
+2013-12-31,GDP,18261.714,Billions of Dollars
+2013-12-31,Unemployment,6.6,Percent
+2013-12-31,Interest,0.07,Percent
+2013-12-31,S&P 500,150.3011,Adjusted Close (SPY)
+2014-01-31,Inflation,234.781,Index
+2014-01-31,GDP,,Billions of Dollars
+2014-01-31,Unemployment,6.7,Percent
+2014-01-31,Interest,0.07,Percent
+2014-01-31,S&P 500,145.0033,Adjusted Close (SPY)
+2014-02-28,Inflation,236.293,Index
+2014-02-28,GDP,,Billions of Dollars
+2014-02-28,Unemployment,6.7,Percent
+2014-02-28,Interest,0.08,Percent
+2014-02-28,S&P 500,151.6032,Adjusted Close (SPY)
+2014-03-31,Inflation,237.072,Index
+2014-03-31,GDP,,Billions of Dollars
+2014-03-31,Unemployment,6.2,Percent
+2014-03-31,Interest,0.09,Percent
+2014-03-31,S&P 500,152.8632,Adjusted Close (SPY)
+2014-04-30,Inflation,237.9,Index
+2014-04-30,GDP,,Billions of Dollars
+2014-04-30,Unemployment,6.3,Percent
+2014-04-30,Interest,0.09,Percent
+2014-04-30,S&P 500,153.9258,Adjusted Close (SPY)
+2014-05-31,Inflation,238.343,Index
+2014-05-31,GDP,,Billions of Dollars
+2014-05-31,Unemployment,6.1,Percent
+2014-05-31,Interest,0.1,Percent
+2014-05-31,S&P 500,157.4978,Adjusted Close (SPY)
+2014-06-30,Inflation,238.25,Index
+2014-06-30,GDP,,Billions of Dollars
+2014-06-30,Unemployment,6.2,Percent
+2014-06-30,Interest,0.09,Percent
+2014-06-30,S&P 500,160.7476,Adjusted Close (SPY)
+2014-07-31,Inflation,237.852,Index
+2014-07-31,GDP,,Billions of Dollars
+2014-07-31,Unemployment,6.1,Percent
+2014-07-31,Interest,0.09,Percent
+2014-07-31,S&P 500,158.5875,Adjusted Close (SPY)
+2014-08-31,Inflation,238.031,Index
+2014-08-31,GDP,,Billions of Dollars
+2014-08-31,Unemployment,5.9,Percent
+2014-08-31,Interest,0.09,Percent
+2014-08-31,S&P 500,164.8459,Adjusted Close (SPY)
+2014-09-30,Inflation,237.433,Index
+2014-09-30,GDP,,Billions of Dollars
+2014-09-30,Unemployment,5.7,Percent
+2014-09-30,Interest,0.09,Percent
+2014-09-30,S&P 500,162.5725,Adjusted Close (SPY)
+2014-10-31,Inflation,236.151,Index
+2014-10-31,GDP,,Billions of Dollars
+2014-10-31,Unemployment,5.8,Percent
+2014-10-31,Interest,0.09,Percent
+2014-10-31,S&P 500,166.4012,Adjusted Close (SPY)
+2014-11-30,Inflation,234.812,Index
+2014-11-30,GDP,,Billions of Dollars
+2014-11-30,Unemployment,5.6,Percent
+2014-11-30,Interest,0.12,Percent
+2014-11-30,S&P 500,170.9726,Adjusted Close (SPY)
+2014-12-31,Inflation,233.707,Index
+2014-12-31,GDP,18799.622,Billions of Dollars
+2014-12-31,Unemployment,5.7,Percent
+2014-12-31,Interest,0.11,Percent
+2014-12-31,S&P 500,170.5349,Adjusted Close (SPY)
+2015-01-31,Inflation,234.722,Index
+2015-01-31,GDP,,Billions of Dollars
+2015-01-31,Unemployment,5.5,Percent
+2015-01-31,Interest,0.11,Percent
+2015-01-31,S&P 500,165.4821,Adjusted Close (SPY)
+2015-02-28,Inflation,236.119,Index
+2015-02-28,GDP,,Billions of Dollars
+2015-02-28,Unemployment,5.4,Percent
+2015-02-28,Interest,0.11,Percent
+2015-02-28,S&P 500,174.7829,Adjusted Close (SPY)
+2015-03-31,Inflation,236.599,Index
+2015-03-31,GDP,,Billions of Dollars
+2015-03-31,Unemployment,5.4,Percent
+2015-03-31,Interest,0.12,Percent
+2015-03-31,S&P 500,172.031,Adjusted Close (SPY)
+2015-04-30,Inflation,237.805,Index
+2015-04-30,GDP,,Billions of Dollars
+2015-04-30,Unemployment,5.6,Percent
+2015-04-30,Interest,0.12,Percent
+2015-04-30,S&P 500,173.7227,Adjusted Close (SPY)
+2015-05-31,Inflation,238.638,Index
+2015-05-31,GDP,,Billions of Dollars
+2015-05-31,Unemployment,5.3,Percent
+2015-05-31,Interest,0.13,Percent
+2015-05-31,S&P 500,175.9561,Adjusted Close (SPY)
+2015-06-30,Inflation,238.654,Index
+2015-06-30,GDP,,Billions of Dollars
+2015-06-30,Unemployment,5.2,Percent
+2015-06-30,Interest,0.13,Percent
+2015-06-30,S&P 500,172.4194,Adjusted Close (SPY)
+2015-07-31,Inflation,238.316,Index
+2015-07-31,GDP,,Billions of Dollars
+2015-07-31,Unemployment,5.1,Percent
+2015-07-31,Interest,0.14,Percent
+2015-07-31,S&P 500,176.2381,Adjusted Close (SPY)
+2015-08-31,Inflation,237.945,Index
+2015-08-31,GDP,,Billions of Dollars
+2015-08-31,Unemployment,5.0,Percent
+2015-08-31,Interest,0.14,Percent
+2015-08-31,S&P 500,165.4268,Adjusted Close (SPY)
+2015-09-30,Inflation,237.838,Index
+2015-09-30,GDP,,Billions of Dollars
+2015-09-30,Unemployment,5.0,Percent
+2015-09-30,Interest,0.12,Percent
+2015-09-30,S&P 500,161.2928,Adjusted Close (SPY)
+2015-10-31,Inflation,237.336,Index
+2015-10-31,GDP,,Billions of Dollars
+2015-10-31,Unemployment,5.1,Percent
+2015-10-31,Interest,0.12,Percent
+2015-10-31,S&P 500,175.0488,Adjusted Close (SPY)
+2015-11-30,Inflation,236.525,Index
+2015-11-30,GDP,,Billions of Dollars
+2015-11-30,Unemployment,5.0,Percent
+2015-11-30,Interest,0.24,Percent
+2015-11-30,S&P 500,175.6886,Adjusted Close (SPY)
+2015-12-31,Inflation,236.916,Index
+2015-12-31,GDP,19141.672,Billions of Dollars
+2015-12-31,Unemployment,4.8,Percent
+2015-12-31,Interest,0.34,Percent
+2015-12-31,S&P 500,172.6705,Adjusted Close (SPY)
+2016-01-31,Inflation,237.111,Index
+2016-01-31,GDP,,Billions of Dollars
+2016-01-31,Unemployment,4.9,Percent
+2016-01-31,Interest,0.38,Percent
+2016-01-31,S&P 500,164.0738,Adjusted Close (SPY)
+2016-02-29,Inflation,238.132,Index
+2016-02-29,GDP,,Billions of Dollars
+2016-02-29,Unemployment,5.0,Percent
+2016-02-29,Interest,0.36,Percent
+2016-02-29,S&P 500,163.9383,Adjusted Close (SPY)
+2016-03-31,Inflation,239.261,Index
+2016-03-31,GDP,,Billions of Dollars
+2016-03-31,Unemployment,5.1,Percent
+2016-03-31,Interest,0.37,Percent
+2016-03-31,S&P 500,174.9619,Adjusted Close (SPY)
+2016-04-30,Inflation,240.229,Index
+2016-04-30,GDP,,Billions of Dollars
+2016-04-30,Unemployment,4.8,Percent
+2016-04-30,Interest,0.37,Percent
+2016-04-30,S&P 500,175.6514,Adjusted Close (SPY)
+2016-05-31,Inflation,241.018,Index
+2016-05-31,GDP,,Billions of Dollars
+2016-05-31,Unemployment,4.9,Percent
+2016-05-31,Interest,0.38,Percent
+2016-05-31,S&P 500,178.6395,Adjusted Close (SPY)
+2016-06-30,Inflation,240.628,Index
+2016-06-30,GDP,,Billions of Dollars
+2016-06-30,Unemployment,4.8,Percent
+2016-06-30,Interest,0.39,Percent
+2016-06-30,S&P 500,179.2643,Adjusted Close (SPY)
+2016-07-31,Inflation,240.849,Index
+2016-07-31,GDP,,Billions of Dollars
+2016-07-31,Unemployment,4.9,Percent
+2016-07-31,Interest,0.4,Percent
+2016-07-31,S&P 500,185.8023,Adjusted Close (SPY)
+2016-08-31,Inflation,241.428,Index
+2016-08-31,GDP,,Billions of Dollars
+2016-08-31,Unemployment,5.0,Percent
+2016-08-31,Interest,0.4,Percent
+2016-08-31,S&P 500,186.0248,Adjusted Close (SPY)
+2016-09-30,Inflation,241.729,Index
+2016-09-30,GDP,,Billions of Dollars
+2016-09-30,Unemployment,4.9,Percent
+2016-09-30,Interest,0.4,Percent
+2016-09-30,S&P 500,186.0393,Adjusted Close (SPY)
+2016-10-31,Inflation,241.353,Index
+2016-10-31,GDP,,Billions of Dollars
+2016-10-31,Unemployment,4.7,Percent
+2016-10-31,Interest,0.41,Percent
+2016-10-31,S&P 500,182.8139,Adjusted Close (SPY)
+2016-11-30,Inflation,241.432,Index
+2016-11-30,GDP,,Billions of Dollars
+2016-11-30,Unemployment,4.7,Percent
+2016-11-30,Interest,0.54,Percent
+2016-11-30,S&P 500,189.5485,Adjusted Close (SPY)
+2016-12-31,Inflation,242.839,Index
+2016-12-31,GDP,19612.102,Billions of Dollars
+2016-12-31,Unemployment,4.7,Percent
+2016-12-31,Interest,0.65,Percent
+2016-12-31,S&P 500,193.3932,Adjusted Close (SPY)
+2017-01-31,Inflation,243.603,Index
+2017-01-31,GDP,,Billions of Dollars
+2017-01-31,Unemployment,4.6,Percent
+2017-01-31,Interest,0.66,Percent
+2017-01-31,S&P 500,196.8539,Adjusted Close (SPY)
+2017-02-28,Inflation,243.801,Index
+2017-02-28,GDP,,Billions of Dollars
+2017-02-28,Unemployment,4.4,Percent
+2017-02-28,Interest,0.79,Percent
+2017-02-28,S&P 500,204.5886,Adjusted Close (SPY)
+2017-03-31,Inflation,244.524,Index
+2017-03-31,GDP,,Billions of Dollars
+2017-03-31,Unemployment,4.4,Percent
+2017-03-31,Interest,0.9,Percent
+2017-03-31,S&P 500,204.846,Adjusted Close (SPY)
+2017-04-30,Inflation,244.733,Index
+2017-04-30,GDP,,Billions of Dollars
+2017-04-30,Unemployment,4.4,Percent
+2017-04-30,Interest,0.91,Percent
+2017-04-30,S&P 500,206.8793,Adjusted Close (SPY)
+2017-05-31,Inflation,244.955,Index
+2017-05-31,GDP,,Billions of Dollars
+2017-05-31,Unemployment,4.3,Percent
+2017-05-31,Interest,1.04,Percent
+2017-05-31,S&P 500,209.799,Adjusted Close (SPY)
+2017-06-30,Inflation,244.786,Index
+2017-06-30,GDP,,Billions of Dollars
+2017-06-30,Unemployment,4.3,Percent
+2017-06-30,Interest,1.15,Percent
+2017-06-30,S&P 500,211.1363,Adjusted Close (SPY)
+2017-07-31,Inflation,245.519,Index
+2017-07-31,GDP,,Billions of Dollars
+2017-07-31,Unemployment,4.4,Percent
+2017-07-31,Interest,1.16,Percent
+2017-07-31,S&P 500,215.476,Adjusted Close (SPY)
+2017-08-31,Inflation,246.819,Index
+2017-08-31,GDP,,Billions of Dollars
+2017-08-31,Unemployment,4.3,Percent
+2017-08-31,Interest,1.15,Percent
+2017-08-31,S&P 500,216.1047,Adjusted Close (SPY)
+2017-09-30,Inflation,246.663,Index
+2017-09-30,GDP,,Billions of Dollars
+2017-09-30,Unemployment,4.2,Percent
+2017-09-30,Interest,1.15,Percent
+2017-09-30,S&P 500,220.4573,Adjusted Close (SPY)
+2017-10-31,Inflation,246.669,Index
+2017-10-31,GDP,,Billions of Dollars
+2017-10-31,Unemployment,4.2,Percent
+2017-10-31,Interest,1.16,Percent
+2017-10-31,S&P 500,225.6521,Adjusted Close (SPY)
+2017-11-30,Inflation,246.524,Index
+2017-11-30,GDP,,Billions of Dollars
+2017-11-30,Unemployment,4.1,Percent
+2017-11-30,Interest,1.3,Percent
+2017-11-30,S&P 500,232.5494,Adjusted Close (SPY)
+2017-12-31,Inflation,247.867,Index
+2017-12-31,GDP,20193.896,Billions of Dollars
+2017-12-31,Unemployment,4.0,Percent
+2017-12-31,Interest,1.41,Percent
+2017-12-31,S&P 500,235.3601,Adjusted Close (SPY)
+2018-01-31,Inflation,248.991,Index
+2018-01-31,GDP,,Billions of Dollars
+2018-01-31,Unemployment,4.1,Percent
+2018-01-31,Interest,1.42,Percent
+2018-01-31,S&P 500,248.6248,Adjusted Close (SPY)
+2018-02-28,Inflation,249.554,Index
+2018-02-28,GDP,,Billions of Dollars
+2018-02-28,Unemployment,4.0,Percent
+2018-02-28,Interest,1.51,Percent
+2018-02-28,S&P 500,239.5847,Adjusted Close (SPY)
+2018-03-31,Inflation,250.546,Index
+2018-03-31,GDP,,Billions of Dollars
+2018-03-31,Unemployment,4.0,Percent
+2018-03-31,Interest,1.69,Percent
+2018-03-31,S&P 500,233.0164,Adjusted Close (SPY)
+2018-04-30,Inflation,251.588,Index
+2018-04-30,GDP,,Billions of Dollars
+2018-04-30,Unemployment,3.8,Percent
+2018-04-30,Interest,1.7,Percent
+2018-04-30,S&P 500,234.2207,Adjusted Close (SPY)
+2018-05-31,Inflation,251.989,Index
+2018-05-31,GDP,,Billions of Dollars
+2018-05-31,Unemployment,4.0,Percent
+2018-05-31,Interest,1.82,Percent
+2018-05-31,S&P 500,239.9143,Adjusted Close (SPY)
+2018-06-30,Inflation,252.006,Index
+2018-06-30,GDP,,Billions of Dollars
+2018-06-30,Unemployment,3.8,Percent
+2018-06-30,Interest,1.91,Percent
+2018-06-30,S&P 500,241.2951,Adjusted Close (SPY)
+2018-07-31,Inflation,252.146,Index
+2018-07-31,GDP,,Billions of Dollars
+2018-07-31,Unemployment,3.8,Percent
+2018-07-31,Interest,1.91,Percent
+2018-07-31,S&P 500,250.2343,Adjusted Close (SPY)
+2018-08-31,Inflation,252.439,Index
+2018-08-31,GDP,,Billions of Dollars
+2018-08-31,Unemployment,3.7,Percent
+2018-08-31,Interest,1.95,Percent
+2018-08-31,S&P 500,258.2217,Adjusted Close (SPY)
+2018-09-30,Inflation,252.885,Index
+2018-09-30,GDP,,Billions of Dollars
+2018-09-30,Unemployment,3.8,Percent
+2018-09-30,Interest,2.19,Percent
+2018-09-30,S&P 500,259.7577,Adjusted Close (SPY)
+2018-10-31,Inflation,252.038,Index
+2018-10-31,GDP,,Billions of Dollars
+2018-10-31,Unemployment,3.8,Percent
+2018-10-31,Interest,2.2,Percent
+2018-10-31,S&P 500,241.8073,Adjusted Close (SPY)
+2018-11-30,Inflation,251.233,Index
+2018-11-30,GDP,,Billions of Dollars
+2018-11-30,Unemployment,3.9,Percent
+2018-11-30,Interest,2.27,Percent
+2018-11-30,S&P 500,246.2927,Adjusted Close (SPY)
+2018-12-31,Inflation,251.712,Index
+2018-12-31,GDP,20715.671,Billions of Dollars
+2018-12-31,Unemployment,4.0,Percent
+2018-12-31,Interest,2.4,Percent
+2018-12-31,S&P 500,224.6346,Adjusted Close (SPY)
+2019-01-31,Inflation,252.776,Index
+2019-01-31,GDP,,Billions of Dollars
+2019-01-31,Unemployment,3.8,Percent
+2019-01-31,Interest,2.4,Percent
+2019-01-31,S&P 500,242.6201,Adjusted Close (SPY)
+2019-02-28,Inflation,254.202,Index
+2019-02-28,GDP,,Billions of Dollars
+2019-02-28,Unemployment,3.8,Percent
+2019-02-28,Interest,2.41,Percent
+2019-02-28,S&P 500,250.4848,Adjusted Close (SPY)
+2019-03-31,Inflation,255.548,Index
+2019-03-31,GDP,,Billions of Dollars
+2019-03-31,Unemployment,3.7,Percent
+2019-03-31,Interest,2.42,Percent
+2019-03-31,S&P 500,255.0133,Adjusted Close (SPY)
+2019-04-30,Inflation,256.092,Index
+2019-04-30,GDP,,Billions of Dollars
+2019-04-30,Unemployment,3.6,Percent
+2019-04-30,Interest,2.39,Percent
+2019-04-30,S&P 500,265.4313,Adjusted Close (SPY)
+2019-05-31,Inflation,256.143,Index
+2019-05-31,GDP,,Billions of Dollars
+2019-05-31,Unemployment,3.6,Percent
+2019-05-31,Interest,2.38,Percent
+2019-05-31,S&P 500,248.5044,Adjusted Close (SPY)
+2019-06-30,Inflation,256.571,Index
+2019-06-30,GDP,,Billions of Dollars
+2019-06-30,Unemployment,3.7,Percent
+2019-06-30,Interest,2.4,Percent
+2019-06-30,S&P 500,265.7984,Adjusted Close (SPY)
+2019-07-31,Inflation,256.558,Index
+2019-07-31,GDP,,Billions of Dollars
+2019-07-31,Unemployment,3.6,Percent
+2019-07-31,Interest,2.13,Percent
+2019-07-31,S&P 500,269.8172,Adjusted Close (SPY)
+2019-08-31,Inflation,256.759,Index
+2019-08-31,GDP,,Billions of Dollars
+2019-08-31,Unemployment,3.5,Percent
+2019-08-31,Interest,2.04,Percent
+2019-08-31,S&P 500,265.2995,Adjusted Close (SPY)
+2019-09-30,Inflation,257.346,Index
+2019-09-30,GDP,,Billions of Dollars
+2019-09-30,Unemployment,3.6,Percent
+2019-09-30,Interest,1.83,Percent
+2019-09-30,S&P 500,270.4673,Adjusted Close (SPY)
+2019-10-31,Inflation,257.208,Index
+2019-10-31,GDP,,Billions of Dollars
+2019-10-31,Unemployment,3.6,Percent
+2019-10-31,Interest,1.55,Percent
+2019-10-31,S&P 500,276.4458,Adjusted Close (SPY)
+2019-11-30,Inflation,256.974,Index
+2019-11-30,GDP,,Billions of Dollars
+2019-11-30,Unemployment,3.6,Percent
+2019-11-30,Interest,1.55,Percent
+2019-11-30,S&P 500,286.4527,Adjusted Close (SPY)
+2019-12-31,Inflation,257.971,Index
+2019-12-31,GDP,20284.5,Billions of Dollars
+2019-12-31,Unemployment,3.6,Percent
+2019-12-31,Interest,1.55,Percent
+2019-12-31,S&P 500,294.7694,Adjusted Close (SPY)
+2020-01-31,Inflation,258.678,Index
+2020-01-31,GDP,,Billions of Dollars
+2020-01-31,Unemployment,3.5,Percent
+2020-01-31,Interest,1.58,Percent
+2020-01-31,S&P 500,294.6504,Adjusted Close (SPY)
+2020-02-29,Inflation,258.115,Index
+2020-02-29,GDP,,Billions of Dollars
+2020-02-29,Unemployment,4.4,Percent
+2020-02-29,Interest,0.65,Percent
+2020-02-29,S&P 500,271.3241,Adjusted Close (SPY)
+2020-03-31,Inflation,256.389,Index
+2020-03-31,GDP,,Billions of Dollars
+2020-03-31,Unemployment,14.8,Percent
+2020-03-31,Interest,0.05,Percent
+2020-03-31,S&P 500,237.5056,Adjusted Close (SPY)
+2020-04-30,Inflation,256.394,Index
+2020-04-30,GDP,,Billions of Dollars
+2020-04-30,Unemployment,13.2,Percent
+2020-04-30,Interest,0.05,Percent
+2020-04-30,S&P 500,267.6649,Adjusted Close (SPY)
+2020-05-31,Inflation,257.797,Index
+2020-05-31,GDP,,Billions of Dollars
+2020-05-31,Unemployment,11.0,Percent
+2020-05-31,Interest,0.08,Percent
+2020-05-31,S&P 500,280.4179,Adjusted Close (SPY)
+2020-06-30,Inflation,259.101,Index
+2020-06-30,GDP,,Billions of Dollars
+2020-06-30,Unemployment,10.2,Percent
+2020-06-30,Interest,0.09,Percent
+2020-06-30,S&P 500,285.3984,Adjusted Close (SPY)
+2020-07-31,Inflation,259.918,Index
+2020-07-31,GDP,,Billions of Dollars
+2020-07-31,Unemployment,8.4,Percent
+2020-07-31,Interest,0.1,Percent
+2020-07-31,S&P 500,302.2061,Adjusted Close (SPY)
+2020-08-31,Inflation,260.28,Index
+2020-08-31,GDP,,Billions of Dollars
+2020-08-31,Unemployment,7.8,Percent
+2020-08-31,Interest,0.09,Percent
+2020-08-31,S&P 500,323.2991,Adjusted Close (SPY)
+2020-09-30,Inflation,260.388,Index
+2020-09-30,GDP,,Billions of Dollars
+2020-09-30,Unemployment,6.9,Percent
+2020-09-30,Interest,0.09,Percent
+2020-09-30,S&P 500,311.2082,Adjusted Close (SPY)
+2020-10-31,Inflation,260.229,Index
+2020-10-31,GDP,,Billions of Dollars
+2020-10-31,Unemployment,6.7,Percent
+2020-10-31,Interest,0.09,Percent
+2020-10-31,S&P 500,303.4487,Adjusted Close (SPY)
+2020-11-30,Inflation,260.474,Index
+2020-11-30,GDP,,Billions of Dollars
+2020-11-30,Unemployment,6.7,Percent
+2020-11-30,Interest,0.09,Percent
+2020-11-30,S&P 500,336.4569,Adjusted Close (SPY)
+2020-12-31,Inflation,261.582,Index
+2020-12-31,GDP,21532.407,Billions of Dollars
+2020-12-31,Unemployment,6.4,Percent
+2020-12-31,Interest,0.09,Percent
+2020-12-31,S&P 500,348.928,Adjusted Close (SPY)
+2021-01-31,Inflation,263.014,Index
+2021-01-31,GDP,,Billions of Dollars
+2021-01-31,Unemployment,6.2,Percent
+2021-01-31,Interest,0.08,Percent
+2021-01-31,S&P 500,345.3723,Adjusted Close (SPY)
+2021-02-28,Inflation,264.877,Index
+2021-02-28,GDP,,Billions of Dollars
+2021-02-28,Unemployment,6.1,Percent
+2021-02-28,Interest,0.07,Percent
+2021-02-28,S&P 500,354.9755,Adjusted Close (SPY)
+2021-03-31,Inflation,267.054,Index
+2021-03-31,GDP,,Billions of Dollars
+2021-03-31,Unemployment,6.1,Percent
+2021-03-31,Interest,0.07,Percent
+2021-03-31,S&P 500,371.0932,Adjusted Close (SPY)
+2021-04-30,Inflation,269.195,Index
+2021-04-30,GDP,,Billions of Dollars
+2021-04-30,Unemployment,5.8,Percent
+2021-04-30,Interest,0.06,Percent
+2021-04-30,S&P 500,390.7279,Adjusted Close (SPY)
+2021-05-31,Inflation,271.696,Index
+2021-05-31,GDP,,Billions of Dollars
+2021-05-31,Unemployment,5.9,Percent
+2021-05-31,Interest,0.08,Percent
+2021-05-31,S&P 500,393.2935,Adjusted Close (SPY)
+2021-06-30,Inflation,273.003,Index
+2021-06-30,GDP,,Billions of Dollars
+2021-06-30,Unemployment,5.4,Percent
+2021-06-30,Interest,0.1,Percent
+2021-06-30,S&P 500,402.1318,Adjusted Close (SPY)
+2021-07-31,Inflation,273.567,Index
+2021-07-31,GDP,,Billions of Dollars
+2021-07-31,Unemployment,5.1,Percent
+2021-07-31,Interest,0.09,Percent
+2021-07-31,S&P 500,411.9489,Adjusted Close (SPY)
+2021-08-31,Inflation,274.31,Index
+2021-08-31,GDP,,Billions of Dollars
+2021-08-31,Unemployment,4.7,Percent
+2021-08-31,Interest,0.08,Percent
+2021-08-31,S&P 500,424.2084,Adjusted Close (SPY)
+2021-09-30,Inflation,276.589,Index
+2021-09-30,GDP,,Billions of Dollars
+2021-09-30,Unemployment,4.5,Percent
+2021-09-30,Interest,0.08,Percent
+2021-09-30,S&P 500,404.4508,Adjusted Close (SPY)
+2021-10-31,Inflation,277.948,Index
+2021-10-31,GDP,,Billions of Dollars
+2021-10-31,Unemployment,4.2,Percent
+2021-10-31,Interest,0.08,Percent
+2021-10-31,S&P 500,432.8285,Adjusted Close (SPY)
+2021-11-30,Inflation,278.802,Index
+2021-11-30,GDP,,Billions of Dollars
+2021-11-30,Unemployment,3.9,Percent
+2021-11-30,Interest,0.08,Percent
+2021-11-30,S&P 500,429.3508,Adjusted Close (SPY)
+2021-12-31,Inflation,281.148,Index
+2021-12-31,GDP,22075.931,Billions of Dollars
+2021-12-31,Unemployment,4.0,Percent
+2021-12-31,Interest,0.08,Percent
+2021-12-31,S&P 500,449.2247,Adjusted Close (SPY)
+2022-01-31,Inflation,283.716,Index
+2022-01-31,GDP,,Billions of Dollars
+2022-01-31,Unemployment,3.8,Percent
+2022-01-31,Interest,0.08,Percent
+2022-01-31,S&P 500,425.532,Adjusted Close (SPY)
+2022-02-28,Inflation,287.504,Index
+2022-02-28,GDP,,Billions of Dollars
+2022-02-28,Unemployment,3.7,Percent
+2022-02-28,Interest,0.2,Percent
+2022-02-28,S&P 500,412.9716,Adjusted Close (SPY)
+2022-03-31,Inflation,289.109,Index
+2022-03-31,GDP,,Billions of Dollars
+2022-03-31,Unemployment,3.7,Percent
+2022-03-31,Interest,0.33,Percent
+2022-03-31,S&P 500,428.481,Adjusted Close (SPY)
+2022-04-30,Inflation,292.296,Index
+2022-04-30,GDP,,Billions of Dollars
+2022-04-30,Unemployment,3.6,Percent
+2022-04-30,Interest,0.77,Percent
+2022-04-30,S&P 500,390.8736,Adjusted Close (SPY)
+2022-05-31,Inflation,296.311,Index
+2022-05-31,GDP,,Billions of Dollars
+2022-05-31,Unemployment,3.6,Percent
+2022-05-31,Interest,1.21,Percent
+2022-05-31,S&P 500,391.7559,Adjusted Close (SPY)
+2022-06-30,Inflation,296.276,Index
+2022-06-30,GDP,,Billions of Dollars
+2022-06-30,Unemployment,3.5,Percent
+2022-06-30,Interest,1.68,Percent
+2022-06-30,S&P 500,359.4481,Adjusted Close (SPY)
+2022-07-31,Inflation,296.171,Index
+2022-07-31,GDP,,Billions of Dollars
+2022-07-31,Unemployment,3.6,Percent
+2022-07-31,Interest,2.33,Percent
+2022-07-31,S&P 500,392.5488,Adjusted Close (SPY)
+2022-08-31,Inflation,296.808,Index
+2022-08-31,GDP,,Billions of Dollars
+2022-08-31,Unemployment,3.5,Percent
+2022-08-31,Interest,2.56,Percent
+2022-08-31,S&P 500,376.532,Adjusted Close (SPY)
+2022-09-30,Inflation,298.012,Index
+2022-09-30,GDP,,Billions of Dollars
+2022-09-30,Unemployment,3.6,Percent
+2022-09-30,Interest,3.08,Percent
+2022-09-30,S&P 500,341.7343,Adjusted Close (SPY)
+2022-10-31,Inflation,297.711,Index
+2022-10-31,GDP,,Billions of Dollars
+2022-10-31,Unemployment,3.6,Percent
+2022-10-31,Interest,3.78,Percent
+2022-10-31,S&P 500,369.5089,Adjusted Close (SPY)
+2022-11-30,Inflation,296.797,Index
+2022-11-30,GDP,,Billions of Dollars
+2022-11-30,Unemployment,3.5,Percent
+2022-11-30,Interest,4.1,Percent
+2022-11-30,S&P 500,390.0505,Adjusted Close (SPY)
+2022-12-31,Inflation,299.17,Index
+2022-12-31,GDP,22723.719,Billions of Dollars
+2022-12-31,Unemployment,3.5,Percent
+2022-12-31,Interest,4.33,Percent
+2022-12-31,S&P 500,367.593,Adjusted Close (SPY)
+2023-01-31,Inflation,300.84,Index
+2023-01-31,GDP,,Billions of Dollars
+2023-01-31,Unemployment,3.6,Percent
+2023-01-31,Interest,4.57,Percent
+2023-01-31,S&P 500,390.7099,Adjusted Close (SPY)
+2023-02-28,Inflation,301.836,Index
+2023-02-28,GDP,,Billions of Dollars
+2023-02-28,Unemployment,3.5,Percent
+2023-02-28,Interest,4.65,Percent
+2023-02-28,S&P 500,380.8864,Adjusted Close (SPY)
+2023-03-31,Inflation,303.363,Index
+2023-03-31,GDP,,Billions of Dollars
+2023-03-31,Unemployment,3.4,Percent
+2023-03-31,Interest,4.83,Percent
+2023-03-31,S&P 500,395.0268,Adjusted Close (SPY)
+2023-04-30,Inflation,304.127,Index
+2023-04-30,GDP,,Billions of Dollars
+2023-04-30,Unemployment,3.6,Percent
+2023-04-30,Interest,5.06,Percent
+2023-04-30,S&P 500,401.3374,Adjusted Close (SPY)
+2023-05-31,Inflation,305.109,Index
+2023-05-31,GDP,,Billions of Dollars
+2023-05-31,Unemployment,3.6,Percent
+2023-05-31,Interest,5.08,Percent
+2023-05-31,S&P 500,403.19,Adjusted Close (SPY)
+2023-06-30,Inflation,305.691,Index
+2023-06-30,GDP,,Billions of Dollars
+2023-06-30,Unemployment,3.5,Percent
+2023-06-30,Interest,5.12,Percent
+2023-06-30,S&P 500,429.3224,Adjusted Close (SPY)
+2023-07-31,Inflation,307.026,Index
+2023-07-31,GDP,,Billions of Dollars
+2023-07-31,Unemployment,3.7,Percent
+2023-07-31,Interest,5.33,Percent
+2023-07-31,S&P 500,443.3756,Adjusted Close (SPY)
+2023-08-31,Inflation,307.789,Index
+2023-08-31,GDP,,Billions of Dollars
+2023-08-31,Unemployment,3.8,Percent
+2023-08-31,Interest,5.33,Percent
+2023-08-31,S&P 500,436.1698,Adjusted Close (SPY)
+2023-09-30,Inflation,307.671,Index
+2023-09-30,GDP,,Billions of Dollars
+2023-09-30,Unemployment,3.9,Percent
+2023-09-30,Interest,5.33,Percent
+2023-09-30,S&P 500,415.4983,Adjusted Close (SPY)
+2023-10-31,Inflation,307.051,Index
+2023-10-31,GDP,,Billions of Dollars
+2023-10-31,Unemployment,3.7,Percent
+2023-10-31,Interest,5.33,Percent
+2023-10-31,S&P 500,406.4784,Adjusted Close (SPY)
+2023-11-30,Inflation,306.746,Index
+2023-11-30,GDP,,Billions of Dollars
+2023-11-30,Unemployment,3.8,Percent
+2023-11-30,Interest,5.33,Percent
+2023-11-30,S&P 500,443.6077,Adjusted Close (SPY)
+2023-12-31,Inflation,308.417,Index
+2023-12-31,GDP,23358.435,Billions of Dollars
+2023-12-31,Unemployment,3.7,Percent
+2023-12-31,Interest,5.33,Percent
+2023-12-31,S&P 500,463.864,Adjusted Close (SPY)
+2024-01-31,Inflation,310.326,Index
+2024-01-31,GDP,,Billions of Dollars
+2024-01-31,Unemployment,3.9,Percent
+2024-01-31,Interest,5.33,Percent
+2024-01-31,S&P 500,471.2517,Adjusted Close (SPY)
+2024-02-29,Inflation,312.332,Index
+2024-02-29,GDP,,Billions of Dollars
+2024-02-29,Unemployment,3.9,Percent
+2024-02-29,Interest,5.33,Percent
+2024-02-29,S&P 500,495.8448,Adjusted Close (SPY)
+2024-03-31,Inflation,313.548,Index
+2024-03-31,GDP,,Billions of Dollars
+2024-03-31,Unemployment,3.9,Percent
+2024-03-31,Interest,5.33,Percent
+2024-03-31,S&P 500,512.0708,Adjusted Close (SPY)
+2024-04-30,Inflation,314.069,Index
+2024-04-30,GDP,,Billions of Dollars
+2024-04-30,Unemployment,4.0,Percent
+2024-04-30,Interest,5.33,Percent
+2024-04-30,S&P 500,491.4243,Adjusted Close (SPY)
+2024-05-31,Inflation,314.175,Index
+2024-05-31,GDP,,Billions of Dollars
+2024-05-31,Unemployment,4.1,Percent
+2024-05-31,Interest,5.33,Percent
+2024-05-31,S&P 500,516.2804,Adjusted Close (SPY)
+2024-06-30,Inflation,314.54,Index
+2024-06-30,GDP,,Billions of Dollars
+2024-06-30,Unemployment,4.2,Percent
+2024-06-30,Interest,5.33,Percent
+2024-06-30,S&P 500,534.4972,Adjusted Close (SPY)
+2024-07-31,Inflation,314.796,Index
+2024-07-31,GDP,,Billions of Dollars
+2024-07-31,Unemployment,4.2,Percent
+2024-07-31,Interest,5.33,Percent
+2024-07-31,S&P 500,540.9694,Adjusted Close (SPY)
+2024-08-31,Inflation,315.301,Index
+2024-08-31,GDP,,Billions of Dollars
+2024-08-31,Unemployment,4.1,Percent
+2024-08-31,Interest,5.13,Percent
+2024-08-31,S&P 500,553.6095,Adjusted Close (SPY)
+2024-09-30,Inflation,315.664,Index
+2024-09-30,GDP,,Billions of Dollars
+2024-09-30,Unemployment,4.1,Percent
+2024-09-30,Interest,4.83,Percent
+2024-09-30,S&P 500,565.2404,Adjusted Close (SPY)
+2024-10-31,Inflation,315.493,Index
+2024-10-31,GDP,,Billions of Dollars
+2024-10-31,Unemployment,4.2,Percent
+2024-10-31,Interest,4.64,Percent
+2024-10-31,S&P 500,560.1964,Adjusted Close (SPY)
+2024-11-30,Inflation,315.605,Index
+2024-11-30,GDP,,Billions of Dollars
+2024-11-30,Unemployment,4.1,Percent
+2024-11-30,Interest,4.48,Percent
+2024-11-30,S&P 500,593.6029,Adjusted Close (SPY)
+2024-12-31,Inflation,317.671,Index
+2024-12-31,GDP,,Billions of Dollars
+2024-12-31,Unemployment,4.0,Percent
+2024-12-31,Interest,4.33,Percent
+2024-12-31,S&P 500,579.2972,Adjusted Close (SPY)
+2025-01-31,Inflation,319.082,Index
+2025-01-31,GDP,,Billions of Dollars
+2025-01-31,Unemployment,4.1,Percent
+2025-01-31,Interest,4.33,Percent
+2025-01-31,S&P 500,594.855,Adjusted Close (SPY)
+2025-02-28,Inflation,319.799,Index
+2025-02-28,GDP,,Billions of Dollars
+2025-02-28,Unemployment,4.2,Percent
+2025-02-28,Interest,4.33,Percent
+2025-02-28,S&P 500,587.3034,Adjusted Close (SPY)
+2025-03-31,Inflation,320.795,Index
+2025-03-31,GDP,,Billions of Dollars
+2025-03-31,Unemployment,4.2,Percent
+2025-03-31,Interest,4.33,Percent
+2025-03-31,S&P 500,554.5783,Adjusted Close (SPY)
+2025-04-30,Inflation,321.465,Index
+2025-04-30,GDP,,Billions of Dollars
+2025-04-30,Unemployment,4.2,Percent
+2025-04-30,Interest,4.33,Percent
+2025-04-30,S&P 500,549.7701,Adjusted Close (SPY)
+2025-05-31,Inflation,322.561,Index
+2025-05-31,GDP,,Billions of Dollars
+2025-05-31,Unemployment,4.1,Percent
+2025-05-31,Interest,4.33,Percent
+2025-05-31,S&P 500,584.3203,Adjusted Close (SPY)
+2025-06-30,Inflation,323.048,Index
+2025-06-30,GDP,,Billions of Dollars
+2025-06-30,Unemployment,4.2,Percent
+2025-06-30,Interest,4.33,Percent
+2025-06-30,S&P 500,614.3507,Adjusted Close (SPY)
+2025-07-31,Inflation,323.976,Index
+2025-07-31,GDP,,Billions of Dollars
+2025-07-31,Unemployment,4.3,Percent
+2025-07-31,Interest,4.33,Percent
+2025-07-31,S&P 500,628.5001,Adjusted Close (SPY)
+2025-08-31,Inflation,324.8,Index
+2025-08-31,GDP,,Billions of Dollars
+2025-08-31,Unemployment,4.4,Percent
+2025-08-31,Interest,4.22,Percent
+2025-08-31,S&P 500,641.3967,Adjusted Close (SPY)
+2025-09-30,Inflation,,Index
+2025-09-30,GDP,,Billions of Dollars
+2025-09-30,Unemployment,,Percent
+2025-09-30,Interest,4.09,Percent
+2025-09-30,S&P 500,664.2345,Adjusted Close (SPY)
+2025-10-31,Inflation,324.122,Index
+2025-10-31,GDP,,Billions of Dollars
+2025-10-31,Unemployment,4.6,Percent
+2025-10-31,Interest,3.88,Percent
+2025-10-31,S&P 500,680.0682,Adjusted Close (SPY)
+2025-11-30,Inflation,,Index
+2025-11-30,GDP,,Billions of Dollars
+2025-11-30,Unemployment,,Percent
+2025-11-30,Interest,3.72,Percent
+2025-11-30,S&P 500,681.3943,Adjusted Close (SPY)
+2025-12-31,Inflation,,Index
+2025-12-31,GDP,,Billions of Dollars
+2025-12-31,Unemployment,,Percent
+2025-12-31,Interest,,Percent
+2025-12-31,S&P 500,681.92,Adjusted Close (SPY)
