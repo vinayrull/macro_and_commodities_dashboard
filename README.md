@@ -1,24 +1,49 @@
-# Macro and Commodities Dashboard
+# Macroeconomic & Commodities Dashboard
 
 ## Overview
 
-This project uses Python to automatically collect macroeconomic and commodity market data from public APIs and visualize the results in an Power BI dashboard.
-The Python script retrieves data from Alpha Vantage, processes and cleans the data, and saves it as CSV files. These CSV files are then imported into Power BI 
-to create a dashboard that tracks economic indicators, commodity trends, and year-over-year performance.
+This project uses Python to collect, process, and store macroeconomic and commodity data from public APIs, which is then visualised in an Power BI dashboard.
 
 ---
 
 ## Files Included
 
-- **`macro_and_commodities_dashboard.pbix"`**
-- **`macro_and_commodities_dashboard.py`**
-- `Dashboard Preview.png`
-- data
-  - `commodities_data.csv`
-  - `macro_data.csv`
-- other
-    - `Data Design & Transformation.pdf`
- 
+- **macro_and_commodities_dashboard.pbix** – Power BI dashboard file  
+- **macro_and_commodities_dashboard.py** – Python script for data collection and processing  
+- **Dashboard Preview.png** – Screenshot of the dashboard  
+- **data/**
+  - **commodities_data.csv** – Commodity price data  
+  - **macro_data.csv** – Macroeconomic indicators  
+- **other/**
+  - **Data Design & Transformation.pdf** – Documentation of data design and transformations  
+
 ---
 
-#
+## How to Run
+
+1. Place `macro_and_commodities_dashboard.pbix` and `macro_and_commodities_dashboard.py` in the same folder.
+2. Inside this folder, create a subfolder named `data`.
+3. Place `commodities_data.csv` and `macro_data.csv` inside the `data` folder.
+4. Open `macro_and_commodities_dashboard.pbix` and click Refresh.
+
+---
+
+## How to Refresh the Data
+
+1. Retrieve a free **Alpha Vantage API key** from:  
+   https://www.alphavantage.co/support/#api-key
+2. Open and run `macro_and_commodities_dashboard.py`.
+3. Enter your API key when prompted.
+4. Refresh the data in Power BI to load the updated CSV files.
+
+---
+
+## Notes
+
+- Data is updated manually by running the Python script.
+- CSV files are intentionally used to keep the project simple and user-friendly.
+- Designed for local use (no database required).
+- Data is collected at a monthly frequency.
+
+---
+
