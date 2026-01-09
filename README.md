@@ -1,7 +1,5 @@
 # Macroeconomic & Commodities Dashboard
 
-## Overview
-
 This project uses Python to collect, process, and store macroeconomic and commodity data from public APIs, which is then visualised in an Power BI dashboard.
 
 ---
