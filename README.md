@@ -10,5 +10,15 @@ to create a dashboard that tracks economic indicators, commodity trends, and yea
 
 ## Files Included
 
+- **`macro_and_commodities_dashboard.pbix"`**
+- **`macro_and_commodities_dashboard.py`**
+- `Dashboard Preview.png`
+- data
+  - `commodities_data.csv`
+  - `macro_data.csv`
+- other
+    - `Data Design & Transformation.pdf`
+ 
+---
 
-
+#
