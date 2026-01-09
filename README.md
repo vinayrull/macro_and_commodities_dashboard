@@ -26,8 +26,7 @@ This project uses Python to collect, process, and store macroeconomic and commod
 
 ## How to Refresh the Data
 
-1. Retrieve a free **Alpha Vantage API key** from:  
-   https://www.alphavantage.co/support/#api-key
+1. Retrieve a free **Alpha Vantage API key** from: https://www.alphavantage.co/support/#api-key
 2. Open and run `macro_and_commodities_dashboard.py`.
 3. Enter your API key when prompted.
 4. Refresh the data in Power BI to load the updated CSV files.
